@@ -435,15 +435,6 @@ This version demonstrates how Python applications can use SQL and relational dat
 <br>
 <br>
 
-**`phone-contact-book.png`**
-
-This image is the visual banner used in the README file to represent the Phone Contact Book project.
-
-It provides a visual introduction to the project and makes the GitHub documentation more attractive and professional.
-
-<br>
-<br>
-
 
 **`README.md`**
 
