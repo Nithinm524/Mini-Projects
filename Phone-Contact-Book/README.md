@@ -16,11 +16,7 @@ The Phone Contact Book is developed as part of my **Python Mini Projects** colle
 
 <div align="center">
 
-<img 
-  src="phone-contact-book.png"
-  alt="Phone Contact Book Python Mini Project"
-  width="100%"
->
+<img src="phone-contact-book.png" alt="Phone Contact Book Python Mini Project" width="100%">
 
 </div>
 
