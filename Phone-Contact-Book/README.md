@@ -94,7 +94,7 @@ The major objectives are:
 ## ✨ Features
 
 ### ➕ Add Contact
-
+---
 The **Add Contact** feature allows the user to create a new contact record. The application collects information such as the contact's name, phone number and email address.
 
 Before storing the information, the program can perform basic validation to ensure that required fields are not empty and that important values follow the expected format.
@@ -107,7 +107,7 @@ This feature represents the **Create** operation in CRUD.
 <br>
 
 ### 👀 View Contacts
-
+---
 The **View Contacts** feature retrieves the contact records currently stored in the system and displays them to the user.
 
 The application reads the available records and presents the information in an organized format so that users can easily understand the stored data.
@@ -122,7 +122,7 @@ This feature represents the **Read** operation in CRUD.
 <br>
 
 ### 🔍 Search Contact
-
+---
 The **Search Contact** feature allows users to find a particular contact without displaying the entire contact list.
 
 The user can provide a search value such as a name or phone number. The application compares the entered value with the stored records and displays the matching contact information.
@@ -133,7 +133,7 @@ This feature demonstrates how stored data can be filtered based on user requirem
 <br>
 
 ### ✏️ Update Contact
-
+---
 The **Update Contact** feature allows users to modify existing contact information.
 
 For example, if a contact changes their phone number or email address, the user does not need to delete the entire contact and create it again. Instead, the existing record can be located and updated.
@@ -146,7 +146,7 @@ This feature represents the **Update** operation in CRUD.
 <br>
 
 ### 🗑️ Delete Contact
-
+---
 The **Delete Contact** feature allows users to remove a contact from the system.
 
 When the user selects this operation, the application identifies the required contact and removes its record from the storage system.
@@ -159,7 +159,7 @@ This feature represents the **Delete** operation in CRUD.
 <br>
 
 ### 📞 Contact Information
-
+---
 The application can maintain important information associated with each contact, including:
 
 - Name
@@ -172,7 +172,7 @@ These fields provide a basic structure for maintaining useful contact informatio
 <br>
 
 ### 💾 CSV Data Storage
-
+---
 The CSV version provides a simple file-based method of storing contact information.
 
 CSV stands for **Comma-Separated Values** and is commonly used to store structured tabular information in a text file.
@@ -185,7 +185,7 @@ This implementation helps demonstrate how applications can maintain data even af
 <br>
 
 ### 🗄️ SQLite Database Storage
-
+---
 The SQLite version uses a local relational database to store contact records.
 
 SQLite provides a structured way of storing information using tables, columns and rows. Python can communicate with the SQLite database using SQL commands.
@@ -198,7 +198,7 @@ This implementation provides practical experience with database-based applicatio
 <br>
 
 ### 🔄 Menu-Driven Interface
-
+---
 The application uses a menu-driven interface to make interaction simple.
 
 The user is shown a list of available operations and selects the required option. After completing the selected operation, the program can return to the main menu so that another operation can be performed.
@@ -209,7 +209,7 @@ This structure makes the application easy to understand and demonstrates how loo
 <br>
 
 ### ✅ Input Validation
-
+---
 Input validation helps prevent incorrect or incomplete data from being stored.
 
 For example, the program can check whether the contact name is empty, whether a phone number contains the expected number of digits and whether an email address follows a basic format.
