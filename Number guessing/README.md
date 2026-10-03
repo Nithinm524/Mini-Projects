@@ -9,6 +9,7 @@
 <br>
 
 ### A Python-Based Interactive Number Guessing Application
+---
 
 The **Number Guessing Game** is a Python-based mini project developed to demonstrate how fundamental programming concepts can be combined to create a simple, interactive and engaging application. The game generates a random number within a predefined range and challenges the user to identify the number by entering guesses through the command-line interface.
 
