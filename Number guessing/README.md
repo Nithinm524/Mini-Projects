@@ -6,25 +6,27 @@ The **Number Guessing Game** is a Python-based mini project developed to demonst
 
 The application provides feedback after every attempt so that the user can gradually reach the correct answer. When the entered number is lower than the generated number, the program indicates that the user should try a higher number. Similarly, when the entered number is greater than the generated number, the program provides a hint to try a lower number. The game continues until the user successfully identifies the generated number.
 
-Although the application is simple, it provides practical experience with several important Python programming concepts. It demonstrates how **random number generation, user input, conditional statements, loops, comparison operators and counters** can work together to create a complete program.
+Although the application is simple, it provides practical experience with several important Python programming concepts. It demonstrates how **random number generation, user input, conditional statements, loops, comparison operators, and counters** can work together to create a complete program.
 
 The project was developed as part of my Python Mini Projects collection to strengthen programming fundamentals through hands-on implementation. It also provides a foundation for understanding how simple logic can be extended into more advanced games and interactive applications.
 
----
+<br>
+<br>
 
 ## 📌 Project Overview
 
 The Number Guessing Game is designed as a beginner-friendly interactive application where the computer selects a random number and the player attempts to identify it.
 
-When the program starts, it generates a random number within a specified range. The user is then prompted to enter a number as their guess. The application compares the entered value with the randomly generated number and determines whether the guess is correct, too low or too high.
+When the program starts, it generates a random number within a specified range. The user is then prompted to enter a number as their guess. The application compares the entered value with the randomly generated number and determines whether the guess is correct, too low, or too high.
 
 If the user's guess is lower than the target number, the program displays a message asking the user to try a higher number. If the guess is higher than the target number, the program provides the opposite hint. The user can continue making guesses until the correct number is identified.
 
 The application can also keep track of the number of attempts made by the player. This makes the program more interactive and provides an opportunity to understand how counters and repeated operations can be implemented in Python.
 
-The project focuses on simplicity while demonstrating the complete flow of an interactive application, starting from generating data and accepting user input to processing the input, providing feedback and terminating the game when the correct answer is found.
+The project focuses on simplicity while demonstrating the complete flow of an interactive application, starting from generating data and accepting user input to processing the input, providing feedback, and terminating the game when the correct answer is found.
 
----
+<br>
+<br>
 
 ## 💡 Problem Statement
 
@@ -36,7 +38,8 @@ The system must compare each guess with the generated number and provide appropr
 
 This project provides a simple example of how a computer program can make decisions based on user input and repeatedly execute a particular operation until a required condition is satisfied.
 
----
+<br>
+<br>
 
 ## 🎯 Objectives
 
@@ -48,14 +51,15 @@ The specific objectives are:
 - To understand random number generation.
 - To accept and process input provided by the user.
 - To compare user input with a randomly generated value.
-- To implement conditional statements for decision making.
+- To implement conditional statements for decision-making.
 - To use loops for repeated execution.
 - To provide useful hints based on the user's input.
 - To count and track the number of attempts.
 - To improve logical thinking and problem-solving skills.
 - To understand how basic programming concepts can be combined into a complete application.
 
----
+<br>
+<br>
 
 ## ✨ Features
 
@@ -87,13 +91,15 @@ The program can maintain a count of the number of guesses made by the player, pr
 
 The application uses a straightforward command-line interface, making it easy to run and interact with the program without requiring additional software or graphical components.
 
----
+<br>
+<br>
+
 
 ## 🛠️ Technologies Used
 
 ### 🐍 Python
 
-Python is used as the primary programming language for implementing the game logic, processing user input and controlling the overall flow of the application.
+Python is used as the primary programming language for implementing the game logic, processing user input, and controlling the overall flow of the application.
 
 ### 🎲 Random Module
 
@@ -101,9 +107,10 @@ Python's built-in `random` module is used to generate the target number for the 
 
 ### ⌨️ Command-Line Interface
 
-The application uses the terminal or command prompt to receive user input and display game instructions, hints and results.
+The application uses the terminal or command prompt to receive user input and display game instructions, hints, and results.
 
----
+<br>
+<br>
 
 ## 🧠 Programming Concepts Used
 
@@ -113,7 +120,7 @@ This project provides practical experience with several fundamental Python conce
 - User input
 - Type conversion
 - Conditional statements
-- `if`, `elif` and `else`
+- `if`, `elif,` and `else`
 - `while` loops
 - Comparison operators
 - Random number generation
@@ -125,7 +132,8 @@ This project provides practical experience with several fundamental Python conce
 
 These concepts are combined to create a complete program rather than being used as isolated coding examples.
 
----
+<br>
+<br>
 
 ## ⚙️ How the Game Works
 
@@ -179,7 +187,8 @@ A simplified workflow is:
                  └───────────────────┘
 ```
 
----
+<br>
+<br>
 
 ## 🔄 Game Flow
 
@@ -189,7 +198,8 @@ The overall game flow can be summarized as follows:
 
 This simple flow demonstrates how decision-making and repetition are used together in an interactive program.
 
----
+<br>
+<br>
 
 ## 📂 Project Structure
 
@@ -204,13 +214,14 @@ Number-Guessing/
 
 **`number_guessing.py`**
 
-The main Python program containing the complete game logic. It is responsible for generating the random number, accepting user guesses, comparing values, providing hints and determining when the player has guessed correctly.
+The main Python program containing the complete game logic. It is responsible for generating the random number, accepting user guesses, comparing values, providing hints, and determining when the player has guessed correctly.
 
 **`README.md`**
 
-The documentation file containing information about the project, objectives, features, technologies, working process, learning outcomes and usage instructions.
+The documentation file containing information about the project, objectives, features, technologies, working process, learning outcomes, and usage instructions.
 
----
+<br>
+<br>
 
 ## ▶️ How to Run
 
@@ -242,7 +253,8 @@ python number_guessing.py
 
 The game will start in the terminal and display the instructions for entering guesses.
 
----
+<br>
+<br>
 
 ## 💻 Example Gameplay
 
@@ -267,19 +279,21 @@ Number of attempts: 3
 
 The exact messages and range may vary depending on the implementation of the Python program.
 
----
+<br>
+<br>
 
 ## 📚 Learning Outcomes
 
 Developing this project provided practical experience in building an interactive Python application from basic programming concepts.
 
-The project helped me understand how random values can be generated and how user input can be processed and compared against a target value. It also provided hands-on practice with conditional statements, loops, comparison operators and counters.
+The project helped me understand how random values can be generated and how user input can be processed and compared against a target value. It also provided hands-on practice with conditional statements, loops, comparison operators, and counters.
 
-Another important learning outcome was understanding how program flow can be controlled based on different conditions. Instead of executing instructions only once, the application repeatedly accepts input, evaluates the result and provides feedback until a specific condition is satisfied.
+Another important learning outcome was understanding how program flow can be controlled based on different conditions. Instead of executing instructions only once, the application repeatedly accepts input, evaluates the result, and provides feedback until a specific condition is satisfied.
 
 Through this project, I also gained experience in designing a simple user interaction flow and converting a problem statement into a logical sequence of programming steps.
 
----
+<br>
+<br>
 
 ## 🔮 Future Enhancements
 
@@ -302,30 +316,20 @@ Possible improvements include:
 
 These improvements could transform the basic command-line game into a more complete interactive gaming application.
 
----
+<br>
+<br>
 
 ## 🎓 Project Purpose
 
 This project was developed as part of my **Python Mini Projects** collection to strengthen programming fundamentals through practical implementation.
 
-The Number Guessing Game demonstrates how a relatively small problem can be converted into a complete working application by combining random number generation, user input, conditional logic, loops and program control flow.
+The Number Guessing Game demonstrates how a relatively small problem can be converted into a complete working application by combining random number generation, user input, conditional logic, loops, and program control flow.
 
 The project is primarily intended for **learning and educational purposes** and serves as a foundation for developing more advanced Python applications and interactive games.
 
----
+<br>
+<br>
 
-## ⭐ Support
 
-If you find this project useful or interesting, consider giving the repository a ⭐.
-
-Your support motivates me to continue learning, building and improving more projects.
-
----
-
-<div align="center">
-
-### 🎯 Guess • Learn • Improve
-
-*Made with ❤️ using Python*
 
 </div>
