@@ -194,32 +194,49 @@ A simplified workflow is:
 
 The overall game flow can be summarized as follows:
 
-**Generate Number → Accept Guess → Compare Guess → Provide Hint → Repeat → Correct Guess → Display Result**
+```text
+Generate Number
+       ↓
+Accept Guess
+       ↓
+Compare Guess
+       ↓
+Provide Hint
+       ↓
+Repeat
+       ↓
+Correct Guess
+       ↓
+Display Result
+```
 
 This simple flow demonstrates how decision-making and repetition are used together in an interactive program.
 
-<br>
-<br>
+---
 
 ## 📂 Project Structure
 
 ```text
 Number-Guessing/
 │
-├── number_guessing.py
+├── guessing_game_csv.py
+├── guessing_game_sqlite.py
 └── README.md
 ```
 
 ### 📄 File Description
 
-**`number_guessing.py`**
+**`guessing_game_csv.py`**
 
-The main Python program containing the complete game logic. It is responsible for generating the random number, accepting user guesses, comparing values, providing hints, and determining when the player has guessed correctly.
+The Python program that implements the Number Guessing Game using **CSV file storage**. It handles random number generation, user guesses, hints, attempt tracking, and stores game information in a CSV file.
+
+**`guessing_game_sqlite.py`**
+
+The Python program that implements the Number Guessing Game using an **SQLite database**. It manages game records and stores information such as guesses, attempts, and results using SQLite database operations.
 
 **`README.md`**
 
-The documentation file containing information about the project, objectives, features, technologies, working process, learning outcomes, and usage instructions.
-
+The documentation file containing detailed information about the project, objectives, features, technologies, programming concepts, working process, project structure, learning outcomes, and usage instructions.
 <br>
 <br>
 
