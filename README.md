@@ -13,9 +13,8 @@
 <img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
 
 </div>
-
----
 <br>
+---
 ## 📖 About This Repository
 
 Welcome to my **Python Mini Projects** repository, a collection of practical applications created as part of my continuous programming and software development learning journey.
