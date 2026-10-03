@@ -60,7 +60,7 @@ This repository will continue to grow as my technical skills develop. Future pro
 
 My goal is to gradually progress from small learning projects toward developing more complete and practical software applications.
 
----
+
 
 # 🚀 Projects
 
@@ -241,7 +241,7 @@ This repository will continue to grow as I develop more projects and explore new
 
 </div>
 
----
+
 
 # 📊 What I Practice
 
@@ -353,7 +353,7 @@ I practice user input, validation and meaningful output through interactive appl
 
 </div>
 
----
+
 
 # 📈 Learning Journey
 
@@ -483,7 +483,7 @@ Use the knowledge gained to build useful and practical software applications.
 
 </div>
 
----
+
 
 # 🎯 Purpose
 
@@ -500,7 +500,7 @@ Through these projects, I aim to:
 - Build a strong project portfolio
 - Track my technical learning progress
 
----
+
 
 # 👨‍💻 About Me
 
@@ -524,9 +524,7 @@ My goal is to gradually progress from small learning projects to larger and more
 🧠 Problem Solving  
 📊 Data & Technology
 
----
 
----
 
 ## 📌 Repository Highlights
 
@@ -541,7 +539,7 @@ This repository currently contains **7 Python mini projects** covering different
 
 The projects range from simple programming exercises and interactive applications to management-oriented systems involving data storage and database operations.
 
----
+
 
 # ⭐ Repository
 
