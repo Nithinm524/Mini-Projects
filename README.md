@@ -20,26 +20,20 @@
 
 Welcome to my **Python Mini Projects** repository.
 
-This repository contains a collection of practical projects developed as part of my programming and software development learning journey. Each project is designed to apply Python concepts to practical problems and improve my understanding through hands-on development.
+This repository is a collection of practical projects developed while learning and improving my programming and software development skills. Instead of only studying programming concepts, I use these projects to apply what I learn and understand how different concepts work together in real applications.
 
-The projects range from simple command-line applications and games to applications involving file handling, data management, databases, user interaction and basic application logic.
+The projects cover a range of areas including **Python programming, file handling, data management, SQLite databases, user interaction, problem solving and application development**.
 
-### 🎯 What This Repository Contains
+### 🎯 Repository Goals
 
-- 🐍 Python programming projects
-- 🗂️ File and data handling applications
-- 🗄️ SQLite database projects
-- 🎮 Interactive command-line applications
-- 🧠 Problem-solving based projects
-- 🔐 Utility-based applications
-- 📊 Data management applications
-- 🏨 Real-world inspired management systems
-
-### 💡 Why I Built These Projects
-
-These mini projects are part of my continuous learning journey. They help me move from understanding programming concepts theoretically to applying them by building working applications.
-
-Through these projects, I practice writing code, handling user input, implementing application logic, working with files and databases, debugging errors and improving my problem-solving skills.
+- 🐍 Strengthen Python programming fundamentals
+- 🧠 Improve logical and problem-solving skills
+- 🛠️ Build practical applications
+- 📄 Learn file and data handling
+- 🗄️ Understand database operations
+- 🔄 Practice CRUD operations
+- 🔧 Improve coding and debugging skills
+- 📈 Build a consistent project portfolio
 
 ---
 
@@ -52,17 +46,17 @@ Through these projects, I practice writing code, handling user input, implementi
 
 ### 🏦 Bank Management System
 
-A Python-based application designed to manage bank accounts and perform basic banking operations.
+A Python application for managing bank accounts and performing basic banking operations.
 
 **Tech Stack**
 
 `Python` `SQLite` `CSV`
 
-**Concepts**
+**Key Concepts**
 
-Account Management • Data Handling • Database Operations
+Account Management • Database Operations • Data Handling
 
-**[📂 View Project →](./Bank-System)**
+🔗 **[View Project →](./Bank-System)**
 
 </td>
 
@@ -70,17 +64,17 @@ Account Management • Data Handling • Database Operations
 
 ### 🎯 Number Guessing Game
 
-A simple interactive game where the user attempts to guess a randomly generated number.
+An interactive game where the user attempts to guess a randomly generated number.
 
 **Tech Stack**
 
 `Python`
 
-**Concepts**
+**Key Concepts**
 
 Random Numbers • Loops • Conditions • User Input
 
-**[📂 View Project →](./Number-Guessing)**
+🔗 **[View Project →](./Number-Guessing)**
 
 </td>
 
@@ -92,17 +86,17 @@ Random Numbers • Loops • Conditions • User Input
 
 ### 📱 Phone Contact Book
 
-A simple application for storing, searching and managing phone contact information.
+An application for storing, searching and managing phone contact information.
 
 **Tech Stack**
 
 `Python`
 
-**Concepts**
+**Key Concepts**
 
-Data Management • Functions • User Input • File Handling
+Data Management • Functions • File Handling
 
-**[📂 View Project →](./Phone-Contact-Book)**
+🔗 **[View Project →](./Phone-Contact-Book)**
 
 </td>
 
@@ -110,17 +104,17 @@ Data Management • Functions • User Input • File Handling
 
 ### ✅ To-Do List
 
-A task management application for organizing and managing daily activities.
+A simple task management application for organizing and managing daily activities.
 
 **Tech Stack**
 
 `Python`
 
-**Concepts**
+**Key Concepts**
 
-Lists • Functions • User Input • Task Management
+Lists • Functions • Task Management • User Input
 
-**[📂 View Project →](./To-Do-List)**
+🔗 **[View Project →](./To-Do-List)**
 
 </td>
 
@@ -132,17 +126,17 @@ Lists • Functions • User Input • Task Management
 
 ### 🔐 Password Generator & Manager
 
-A utility application for generating passwords and managing password-related information.
+A utility application for generating passwords and managing password information.
 
 **Tech Stack**
 
 `Python`
 
-**Concepts**
+**Key Concepts**
 
-Random Generation • Strings • Data Handling • User Input
+Random Generation • Strings • Data Handling
 
-**[📂 View Project →](./Password-Generator-Manager)**
+🔗 **[View Project →](./Password-Generator-Manager)**
 
 </td>
 
@@ -150,17 +144,17 @@ Random Generation • Strings • Data Handling • User Input
 
 ### 🧠 Quiz Application
 
-An interactive Python quiz application that presents questions to the user and calculates the final score.
+An interactive quiz application that presents questions and calculates the user's final score.
 
 **Tech Stack**
 
 `Python`
 
-**Concepts**
+**Key Concepts**
 
-Questions • Conditions • Score Calculation • User Interaction
+Questions • Conditions • Score Calculation
 
-**[📂 View Project →](./Quiz)**
+🔗 **[View Project →](./Quiz)**
 
 </td>
 
@@ -172,17 +166,17 @@ Questions • Conditions • Score Calculation • User Interaction
 
 ### 🏨 Hotel Booking System
 
-A Python-based application designed to manage hotel booking information and customer details.
+A Python application for managing hotel booking information and customer details.
 
 **Tech Stack**
 
 `Python`
 
-**Concepts**
+**Key Concepts**
 
-Booking Management • Data Handling • User Input • Application Logic
+Booking Management • Data Handling • Application Logic
 
-**[📂 View Project →](./Hotel-Booking)**
+🔗 **[View Project →](./Hotel-Booking)**
 
 </td>
 
@@ -190,14 +184,14 @@ Booking Management • Data Handling • User Input • Application Logic
 
 ### 📚 More Projects Coming Soon
 
-This repository will continue to grow as I develop more projects and explore new technologies.
+This repository will continue to grow as I build more projects and explore new technologies.
 
-**Future Projects**
+**Planned Areas**
 
 🐍 Python Applications  
 🗄️ Database Projects  
-🤖 AI-Based Projects  
-💻 Larger Software Applications
+🤖 AI Projects  
+💻 Larger Applications
 
 </td>
 
@@ -210,14 +204,14 @@ This repository will continue to grow as I develop more projects and explore new
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,sqlite,git,github,vscode" alt="Python SQLite Git GitHub VS Code">
+<img src="https://skillicons.dev/icons?i=python,sqlite,git,github,vscode" alt="Python, SQLite, Git, GitHub and VS Code">
 
 <br><br>
 
-**Python** &nbsp; • &nbsp;
-**SQLite** &nbsp; • &nbsp;
-**Git** &nbsp; • &nbsp;
-**GitHub** &nbsp; • &nbsp;
+**Python** &nbsp;&nbsp; • &nbsp;&nbsp;
+**SQLite** &nbsp;&nbsp; • &nbsp;&nbsp;
+**Git** &nbsp;&nbsp; • &nbsp;&nbsp;
+**GitHub** &nbsp;&nbsp; • &nbsp;&nbsp;
 **VS Code**
 
 </div>
@@ -226,113 +220,63 @@ This repository will continue to grow as I develop more projects and explore new
 
 # 📊 What I Practice
 
-<div align="center">
-
-<table align="center">
-
+<table>
 <tr>
-<td align="center" width="650">
 
-### 🐍 Python Programming
+<td width="33%" valign="top">
 
-I practice core Python concepts such as variables, data types, functions, loops, conditional statements, strings, lists and other programming fundamentals.
+### 🐍 Python
+
+Building a strong foundation in variables, data types, functions, loops, conditions, strings and collections.
 
 </td>
+
+<td width="33%" valign="top">
+
+### 📄 File Handling
+
+Working with files and structured data to store, read, update and manage information.
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🗄️ Databases
+
+Using SQLite to understand tables, records, queries and application data storage.
+
+</td>
+
 </tr>
 
 <tr>
-<td align="center">
 
-### ⬇
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="650">
-
-### 📄 File & Data Handling
-
-I work with files and structured data to understand how applications can store, read, update and manage information.
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### ⬇
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="650">
-
-### 🗄️ Database Management
-
-I use SQLite to understand database concepts and learn how applications can store and retrieve structured information.
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### ⬇
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="650">
+<td width="33%" valign="top">
 
 ### 🔄 CRUD Operations
 
-I practice Create, Read, Update and Delete operations while building management-oriented applications.
+Practicing Create, Read, Update and Delete operations through management applications.
 
 </td>
-</tr>
 
-<tr>
-<td align="center">
-
-### ⬇
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="650">
+<td width="33%" valign="top">
 
 ### 🧠 Problem Solving
 
-Each project gives me an opportunity to break a problem into smaller steps, design a solution and implement it using programming concepts.
+Breaking problems into smaller steps and developing logical programming solutions.
 
 </td>
-</tr>
 
-<tr>
-<td align="center">
-
-### ⬇
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="650">
+<td width="33%" valign="top">
 
 ### ⌨️ User Interaction
 
-I practice taking user input, validating information and providing meaningful output through interactive applications.
+Handling user input, validation and meaningful output in interactive applications.
 
 </td>
+
 </tr>
-
 </table>
-
-</div>
 
 ---
 
@@ -340,124 +284,137 @@ I practice taking user input, validating information and providing meaningful ou
 
 <div align="center">
 
-<table align="center">
-
+<table>
 <tr>
-<td align="center" width="600">
 
-### 🐍 Learn Python
+<td align="center" width="14%">
 
-Build a strong foundation in Python programming.
+### 01
+
+🐍
+
+**Learn**
+
+Python
 
 </td>
-</tr>
 
-<tr>
 <td align="center">
 
-### ⬇
+➡️
 
 </td>
-</tr>
 
-<tr>
-<td align="center" width="600">
+<td align="center" width="14%">
 
-### 💡 Understand Programming Concepts
+### 02
 
-Learn how programming concepts work and how they can be applied to solve problems.
+💡
+
+**Understand**
+
+Concepts
 
 </td>
-</tr>
 
-<tr>
 <td align="center">
 
-### ⬇
+➡️
 
 </td>
-</tr>
 
-<tr>
-<td align="center" width="600">
+<td align="center" width="14%">
 
-### 🛠️ Build Mini Projects
+### 03
 
-Apply programming knowledge by creating practical applications.
+🛠️
+
+**Build**
+
+Projects
 
 </td>
-</tr>
 
-<tr>
 <td align="center">
 
-### ⬇
+➡️
 
 </td>
+
+<td align="center" width="14%">
+
+### 04
+
+🧠
+
+**Solve**
+
+Problems
+
+</td>
+
 </tr>
 
 <tr>
-<td align="center" width="600">
 
-### 🧠 Solve Problems
+<td colspan="7" align="center">
 
-Improve logical thinking and develop solutions to programming problems.
+⬇️
 
 </td>
+
 </tr>
 
 <tr>
+
+<td align="center" width="14%">
+
+### 05
+
+🗄️
+
+**Explore**
+
+Databases
+
+</td>
+
 <td align="center">
 
-### ⬇
+➡️
 
 </td>
-</tr>
 
-<tr>
-<td align="center" width="600">
+<td align="center" width="14%">
 
-### 🗄️ Explore Databases & Tools
+### 06
 
-Learn SQLite, Git, GitHub and other development tools.
+🚀
+
+**Build**
+
+Larger Projects
 
 </td>
-</tr>
 
-<tr>
 <td align="center">
 
-### ⬇
+➡️
 
 </td>
-</tr>
 
-<tr>
-<td align="center" width="600">
+<td align="center" width="14%">
 
-### 🚀 Build Larger Projects
+### 07
 
-Combine different concepts to develop more complete applications.
+💻
 
-</td>
-</tr>
+**Develop**
 
-<tr>
-<td align="center">
-
-### ⬇
+Real Applications
 
 </td>
-</tr>
 
-<tr>
-<td align="center" width="600">
-
-### 💻 Develop Real-World Applications
-
-Use the knowledge gained to build useful and practical software applications.
-
-</td>
 </tr>
 
 </table>
@@ -468,18 +425,17 @@ Use the knowledge gained to build useful and practical software applications.
 
 # 🎯 Purpose
 
-The purpose of this repository is to document my practical programming journey and maintain a collection of projects that demonstrate my learning and development.
+This repository documents my practical programming journey and provides a place to organize the projects I build while learning.
 
 Through these projects, I aim to:
 
-- Strengthen my Python programming fundamentals
-- Improve logical and problem-solving skills
-- Gain practical experience through project development
-- Understand file handling and databases
-- Learn how different programming concepts work together
-- Practice developing complete small-scale applications
-- Build a portfolio of projects
-- Track my learning progress
+- Strengthen my programming fundamentals
+- Improve logical thinking and problem-solving
+- Gain hands-on development experience
+- Understand how applications manage data
+- Practice working with files and databases
+- Learn Git and GitHub workflows
+- Build projects that demonstrate my technical growth
 
 ---
 
@@ -489,11 +445,11 @@ Through these projects, I aim to:
 
 I am a **Computer Science & Engineering student** interested in software development and emerging technologies.
 
-I enjoy learning programming by building practical projects and applying concepts through hands-on development. Working on mini projects helps me understand how applications are designed, how data is handled and how different programming concepts work together.
+I enjoy learning by building practical projects and experimenting with different programming concepts. Working on projects helps me understand how software is designed, how data is handled and how individual programming concepts come together to form a complete application.
 
-My areas of interest include **Software Development, Python, Artificial Intelligence, Problem Solving, Data and Technology**.
+My main areas of interest include **Software Development, Python, Artificial Intelligence, Problem Solving, Data and Technology**.
 
-I am continuously improving my technical skills by learning new concepts, building projects, solving programming problems and exploring technologies that can help me grow as a software developer.
+I am continuously working on improving my technical skills by learning new concepts, developing projects, solving programming problems and exploring technologies that can help me grow as a software developer.
 
 ### 💡 Areas of Interest
 
@@ -502,6 +458,20 @@ I am continuously improving my technical skills by learning new concepts, buildi
 🤖 Artificial Intelligence  
 🧠 Problem Solving  
 📊 Data & Technology
+
+---
+
+# 📌 Repository Highlights
+
+| 📌 Category | Details |
+|:---|:---|
+| 🐍 Primary Language | Python |
+| 🗄️ Database | SQLite |
+| 📄 Data Handling | CSV & File Handling |
+| 🔧 Version Control | Git |
+| 🐙 Repository | GitHub |
+| 💻 Development | VS Code |
+| 📂 Projects | 7+ Mini Projects |
 
 ---
 
