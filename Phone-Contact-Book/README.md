@@ -1,5 +1,14 @@
 # 📱 Phone Contact Book
 
+<div align="center">
+
+<img src="phone-contact-book.png" alt="Phone Contact Book Python Mini Project" width="100%">
+
+</div>
+<br>
+<br>
+
+
 ### A Python-Based Contact Management Application
 
 The **Phone Contact Book** is a Python-based mini project designed to provide a simple, organized and efficient way to store and manage personal contact information. The application allows users to maintain important details such as contact names, phone numbers, and email addresses through a simple command-line interface.
@@ -12,14 +21,6 @@ The project contains two different implementations for storing contact informati
 
 The Phone Contact Book is developed as part of my **Python Mini Projects** collection to strengthen programming fundamentals through practical implementation. It also provides a foundation for understanding how simple command-line applications can be gradually extended into more advanced contact management systems.
 
-<br>
-<br>
-
-<div align="center">
-
-<img src="phone-contact-book.png" alt="Phone Contact Book Python Mini Project" width="100%">
-
-</div>
 
 <br>
 <br>
