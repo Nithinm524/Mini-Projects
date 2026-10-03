@@ -642,7 +642,7 @@ This approach is simple and useful for learning basic data persistence and file 
 <br>
 
 ### 🗄️ SQLite-Based Storage
-
+---
 The SQLite implementation uses a relational database structure.
 
 Contact records are stored in a table where each row represents one contact and each column represents a particular attribute.
