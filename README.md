@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/PYTHON-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/GITHUB-PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/SQLITE-DATABASE-003B57?style=for-the-badge&logoColor=white&logo=https%3A%2F%2Fcdn.simpleicons.org%2Fsqlite%2Fwhite">
+<img src="https://img.shields.io/badge/SQLITE-DATABASE-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
 
 </div>
 
