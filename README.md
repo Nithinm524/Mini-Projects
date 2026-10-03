@@ -243,7 +243,8 @@ This repository will continue to grow as I develop more projects and explore new
 
 </div>
 
-
+<br>
+<br>
 
 # 📊 What I Practice
 
