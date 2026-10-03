@@ -13,9 +13,20 @@
 <img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
 
 </div>
-<br>
+
 <br>
 
+<div align="center">
+
+<img 
+  src="./assets/python-mini-projects-banner.png" 
+  alt="Python Mini Projects"
+  width="100%"
+>
+
+</div>
+
+---
 
 ## 📖 About This Repository
 
