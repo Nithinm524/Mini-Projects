@@ -60,7 +60,8 @@ This repository will continue to grow as my technical skills develop. Future pro
 
 My goal is to gradually progress from small learning projects toward developing more complete and practical software applications.
 
-
+<br>
+<br>
 
 # 🚀 Projects
 
@@ -223,7 +224,8 @@ This repository will continue to grow as I develop more projects and explore new
 </tr>
 </table>
 
----
+<br>
+<br>
 
 # 🛠️ Technologies & Tools
 
