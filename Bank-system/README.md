@@ -9,6 +9,7 @@
 <br>
 
 ### A Python-Based Banking Application for Account and Transaction Management
+---
 
 <br>
 
