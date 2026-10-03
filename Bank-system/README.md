@@ -1,14 +1,16 @@
 # 🏦 Bank Management System
 
 ### A Python-Based Banking Application for Account and Transaction Management
+<br>
+<br>
 
-The **Bank Management System** is a practical Python-based mini-project developed to simulate the basic operations performed in a banking environment. The project provides a simple and structured way to create and manage customer accounts, store account information, search for existing records, and perform essential banking transactions such as depositing and withdrawing money.
+The **Bank Management System** is a practical Python-based mini-project that simulates basic operations in a banking environment. The project provides a simple and structured way to create and manage customer accounts, store account information, search for existing records, and perform essential banking transactions such as depositing and withdrawing money.
 
-The application is designed as a learning-oriented implementation of a small banking system. It demonstrates how programming concepts such as **functions, conditional statements, loops, user input, data validation, file handling, database operations, and CRUD operations** can be combined to develop a functional application.
+The application is designed as a learning-oriented implementation of a small banking system. It shows how programming concepts such as **functions, conditional statements, loops, user input, data validation, file handling, database operations, and CRUD operations** combine to build a functional application.
 
 The project also explores two different approaches to data storage. Customer and account information can be managed using **CSV files** for simple file-based storage, while the SQLite implementation provides a structured database-based approach for storing and retrieving records. This allows the project to demonstrate how application data can be maintained beyond the execution of the program.
 
-The main purpose of developing this project is to gain practical experience in designing a menu-driven application, managing structured information and implementing operations that resemble real-world banking workflows in a simplified educational environment.
+The main purpose of developing this project is to gain practical experience in designing a menu-driven application, managing structured information, and implementing operations that resemble real-world banking workflows in a simplified educational environment.
 
 <br>
 <br>
@@ -27,7 +29,8 @@ The CSV implementation provides an easy way to understand structured file storag
 
 Overall, the project connects fundamental Python programming concepts with practical application development and provides a foundation for understanding how larger management systems can be designed.
 
----
+<br>
+<br>
 
 ## 🎯 Project Objectives
 
