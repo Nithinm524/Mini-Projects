@@ -2,65 +2,72 @@
 
 # 💻 Python Mini Projects
 
-### 🚀 A Collection of Practical Python Projects
+### A Collection of Practical Python Projects
 
-**Building • Learning • Improving**
+<p>
+  <i>Building • Learning • Improving</i>
+</p>
 
-<img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github" alt="GitHub">
-<img src="https://img.shields.io/badge/SQLite-Database-blue?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-
-</div>
-
----
-
-<div align="center">
-
-# 📖 About This Repository
-
-Welcome to my **Python Mini Projects** repository.
-
-A collection of practical projects developed while learning and improving my  
-**programming, problem-solving and software development skills.**
+<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
 
 </div>
 
 ---
 
-<div align="center">
+## 📖 About This Repository
 
-# 🚀 Projects
+This repository contains a collection of **Python mini projects** developed as part of my programming and software development learning journey.
 
-</div>
+These projects help me practice programming concepts, improve problem-solving skills, understand data handling, and build practical applications.
 
-<table align="center">
+---
+
+## 🚀 Projects
+
+<table>
 <tr>
 
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
 ### 🏦 Bank Management System
 
 A Python-based application for managing bank accounts and performing basic banking operations.
 
-**Technologies**
+**Tech Stack**
 
 `Python` `SQLite` `CSV`
 
-**[📂 View Project](./Bank-System)**
+**Features**
+
+- Account management
+- Banking operations
+- Data storage
+- File and database handling
+
+🔗 **[View Project →](./Bank-System)**
 
 </td>
 
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
 ### 🎯 Number Guessing Game
 
-A simple Python game where the user tries to guess a randomly generated number.
+A simple interactive game where the user attempts to guess a randomly generated number.
 
-**Technologies**
+**Tech Stack**
 
 `Python`
 
-**[📂 View Project](./Number-Guessing)**
+**Features**
+
+- Random number generation
+- User input
+- Attempts tracking
+- Score/result display
+
+🔗 **[View Project →](./Number-Guessing)**
 
 </td>
 
@@ -68,31 +75,45 @@ A simple Python game where the user tries to guess a randomly generated number.
 
 <tr>
 
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
 ### 📱 Phone Contact Book
 
-A Python-based application for storing and managing phone contacts.
+A simple application for storing and managing phone contacts.
 
-**Technologies**
+**Tech Stack**
 
 `Python`
 
-**[📂 View Project](./Phone-Contact-Book)**
+**Features**
+
+- Add contacts
+- View contacts
+- Search contacts
+- Manage contact information
+
+🔗 **[View Project →](./Phone-Contact-Book)**
 
 </td>
 
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
 ### ✅ To-Do List
 
-A simple application for adding, viewing, updating and managing daily tasks.
+A simple task management application for organizing daily activities.
 
-**Technologies**
+**Tech Stack**
 
 `Python`
 
-**[📂 View Project](./To-Do-List)**
+**Features**
+
+- Add tasks
+- View tasks
+- Update tasks
+- Manage completed tasks
+
+🔗 **[View Project →](./To-Do-List)**
 
 </td>
 
@@ -100,31 +121,45 @@ A simple application for adding, viewing, updating and managing daily tasks.
 
 <tr>
 
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
 ### 🔐 Password Generator & Manager
 
-A Python-based application for generating passwords and managing stored password information.
+A Python-based application for generating and managing passwords.
 
-**Technologies**
+**Tech Stack**
 
 `Python`
 
-**[📂 View Project](./Password-Generator-Manager)**
+**Features**
+
+- Password generation
+- Password management
+- User input
+- Data handling
+
+🔗 **[View Project →](./Password-Generator-Manager)**
 
 </td>
 
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
 ### 🧠 Quiz Application
 
 An interactive Python quiz application that allows users to answer questions and calculate their scores.
 
-**Technologies**
+**Tech Stack**
 
 `Python`
 
-**[📂 View Project](./Quiz)**
+**Features**
+
+- Multiple questions
+- User interaction
+- Score calculation
+- Result display
+
+🔗 **[View Project →](./Quiz)**
 
 </td>
 
@@ -132,25 +167,39 @@ An interactive Python quiz application that allows users to answer questions and
 
 <tr>
 
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
 ### 🏨 Hotel Booking System
 
 A Python-based application for managing hotel bookings and customer information.
 
-**Technologies**
+**Tech Stack**
 
 `Python`
 
-**[📂 View Project](./Hotel-Booking)**
+**Features**
+
+- Room booking
+- Customer information
+- Booking management
+- Data handling
+
+🔗 **[View Project →](./Hotel-Booking)**
 
 </td>
 
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-### 📚 More Projects Coming Soon
+### 📚 More Projects
 
-This repository will be updated with new projects as I continue learning and exploring new technologies.
+This repository will continue to grow as I build more projects and explore new technologies.
+
+**Coming Soon**
+
+- More Python projects
+- Database projects
+- AI projects
+- Larger software applications
 
 </td>
 
@@ -159,224 +208,182 @@ This repository will be updated with new projects as I continue learning and exp
 
 ---
 
+## 🛠️ Technologies & Tools
+
 <div align="center">
-
-# 🛠️ Technologies & Tools
-
-<br>
 
 <img src="https://skillicons.dev/icons?i=python,sqlite,git,github,vscode" alt="Technologies">
 
 <br><br>
 
-**Python** • **SQLite** • **Git** • **GitHub** • **VS Code**
+`Python` &nbsp;&nbsp; `SQLite` &nbsp;&nbsp; `Git` &nbsp;&nbsp; `GitHub` &nbsp;&nbsp; `VS Code`
 
 </div>
 
 ---
 
-<div align="center">
+## 📊 What I Practice
 
-# 📊 Project Focus
-
-<table align="center">
-
+<table>
 <tr>
-<td align="center">🐍<br><b>Python Programming</b></td>
-<td align="center">🔧<br><b>Functions</b></td>
-<td align="center">🔀<br><b>Conditional Statements</b></td>
-</tr>
+<td width="33%">
 
-<tr>
-<td align="center">🔁<br><b>Loops</b></td>
-<td align="center">🗂️<br><b>Data Structures</b></td>
-<td align="center">📄<br><b>File Handling</b></td>
-</tr>
+🐍 **Python Programming**
 
-<tr>
-<td align="center">📊<br><b>CSV Handling</b></td>
-<td align="center">🗄️<br><b>Database Management</b></td>
-<td align="center">🔄<br><b>CRUD Operations</b></td>
-</tr>
+Functions, loops, conditions and modules.
 
-<tr>
-<td align="center">🧠<br><b>Problem Solving</b></td>
-<td align="center">⌨️<br><b>User Input</b></td>
-<td align="center">✅<br><b>Validation</b></td>
-</tr>
+</td>
 
-</table>
+<td width="33%">
 
-</div>
+🗂️ **Data Handling**
 
----
+CSV, files and structured data.
 
-<div align="center">
+</td>
 
-# 🎯 Purpose
+<td width="33%">
 
-This repository is created to:
+🗄️ **Databases**
 
-**Practice Programming** • **Build Projects** • **Improve Problem Solving**
-
-**Learn Software Development** • **Build a Portfolio** • **Track Progress**
-
-</div>
-
----
-
-<div align="center">
-
-# 📈 Learning Journey
-
-<table align="center">
-
-<tr>
-<td align="center">
-
-🐍 **Learning Python**
+SQLite and basic database operations.
 
 </td>
 </tr>
 
 <tr>
-<td align="center">
-
-⬇️
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-💡 **Understanding Programming Concepts**
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-⬇️
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-🛠️ **Building Mini Projects**
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-⬇️
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-🧠 **Solving Problems**
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-⬇️
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-🗄️ **Learning Databases & Tools**
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-⬇️
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-🚀 **Building Larger Projects**
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-⬇️
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-💻 **Developing Real-World Applications**
-
-</td>
-</tr>
-
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-# 👨‍💻 About Me
-
-## 👨‍💻 Nithin M
-
-### Computer Science & Engineering Student
-
-### Interested in:
-
-💻 **Software Development**
-
-🐍 **Python**
-
-🤖 **Artificial Intelligence**
+<td>
 
 🧠 **Problem Solving**
 
-📊 **Data & Technology**
+Logical thinking and programming challenges.
 
-</div>
+</td>
+
+<td>
+
+🔄 **CRUD Operations**
+
+Create, read, update and delete operations.
+
+</td>
+
+<td>
+
+⌨️ **User Interaction**
+
+Input handling and validation.
+
+</td>
+</tr>
+</table>
 
 ---
 
+## 🎯 Purpose
+
+The purpose of this repository is to:
+
+- Build practical programming projects
+- Strengthen Python fundamentals
+- Improve problem-solving skills
+- Learn database and file handling
+- Practice software development
+- Maintain a project portfolio
+- Track my learning progress
+
+---
+
+## 📈 Learning Journey
+
 <div align="center">
 
-# ⭐ Repository
+| 🐍 Learn | 💡 Understand | 🛠️ Build | 🧠 Practice | 🗄️ Explore | 🚀 Grow |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Python | Concepts | Projects | Problems | Databases | Applications |
+
+</div>
+
+<p align="center">
+
+**Learning Python**  
+↓  
+**Understanding Programming Concepts**  
+↓  
+**Building Practical Projects**  
+↓  
+**Solving Problems**  
+↓  
+**Learning Databases & Tools**  
+↓  
+**Developing Larger Applications**
+
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+### Nithin M
+
+**Computer Science & Engineering Student**
+
+I am interested in learning and building projects in the field of technology.
+
+### 💡 Interested In
+
+- 💻 Software Development
+- 🐍 Python
+- 🤖 Artificial Intelligence
+- 🧠 Problem Solving
+- 📊 Data & Technology
+
+</td>
+
+<td width="40%" valign="middle">
+
+<div align="center">
+
+### 🚀 My Focus
+
+**Learn**
+
+↓
+
+**Build**
+
+↓
+
+**Practice**
+
+↓
+
+**Improve**
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## ⭐ Repository
+
+<div align="center">
 
 If you find these projects useful or interesting,  
 consider giving this repository a ⭐.
 
-**Your support helps me continue learning, building, and improving.**
+### ⭐ Star this repository if you find it useful!
 
-<br>
-
-⭐ **Star this repository if you find it useful!** ⭐
+**Your support motivates me to keep learning, building and improving.**
 
 </div>
 
