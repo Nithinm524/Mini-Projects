@@ -18,10 +18,6 @@
 
 # 📖 About This Repository
 
-</div>
-
-<div align="center">
-
 Welcome to my **Python Mini Projects** repository.
 
 A collection of practical projects developed while learning and improving my  
@@ -167,6 +163,8 @@ This repository will be updated with new projects as I continue learning and exp
 
 # 🛠️ Technologies & Tools
 
+<br>
+
 <img src="https://skillicons.dev/icons?i=python,sqlite,git,github,vscode" alt="Technologies">
 
 <br><br>
@@ -181,81 +179,35 @@ This repository will be updated with new projects as I continue learning and exp
 
 # 📊 Project Focus
 
-</div>
-
 <table align="center">
+
 <tr>
-<td>
-
-🐍 Python Programming
-
-</td>
-<td>
-
-🔧 Functions
-
-</td>
-<td>
-
-🔀 Conditional Statements
-
-</td>
+<td align="center">🐍<br><b>Python Programming</b></td>
+<td align="center">🔧<br><b>Functions</b></td>
+<td align="center">🔀<br><b>Conditional Statements</b></td>
 </tr>
 
 <tr>
-<td>
-
-🔁 Loops
-
-</td>
-<td>
-
-🗂️ Data Structures
-
-</td>
-<td>
-
-📄 File Handling
-
-</td>
+<td align="center">🔁<br><b>Loops</b></td>
+<td align="center">🗂️<br><b>Data Structures</b></td>
+<td align="center">📄<br><b>File Handling</b></td>
 </tr>
 
 <tr>
-<td>
-
-📊 CSV Handling
-
-</td>
-<td>
-
-🗄️ Database Management
-
-</td>
-<td>
-
-🔄 CRUD Operations
-
-</td>
+<td align="center">📊<br><b>CSV Handling</b></td>
+<td align="center">🗄️<br><b>Database Management</b></td>
+<td align="center">🔄<br><b>CRUD Operations</b></td>
 </tr>
 
 <tr>
-<td>
-
-🧠 Problem Solving
-
-</td>
-<td>
-
-⌨️ User Input
-
-</td>
-<td>
-
-✅ Validation
-
-</td>
+<td align="center">🧠<br><b>Problem Solving</b></td>
+<td align="center">⌨️<br><b>User Input</b></td>
+<td align="center">✅<br><b>Validation</b></td>
 </tr>
+
 </table>
+
+</div>
 
 ---
 
@@ -265,7 +217,8 @@ This repository will be updated with new projects as I continue learning and exp
 
 This repository is created to:
 
-**Practice Programming** • **Build Projects** • **Improve Problem Solving**  
+**Practice Programming** • **Build Projects** • **Improve Problem Solving**
+
 **Learn Software Development** • **Build a Portfolio** • **Track Progress**
 
 </div>
@@ -276,21 +229,113 @@ This repository is created to:
 
 # 📈 Learning Journey
 
-```text
-🐍 Learning Python
-        ↓
-💡 Understanding Programming Concepts
-        ↓
-🛠️ Building Mini Projects
-        ↓
-🧠 Solving Problems
-        ↓
-🗄️ Learning Databases & Tools
-        ↓
-🚀 Building Larger Projects
-        ↓
-💻 Developing Real-World Applications
-```
+<table align="center">
+
+<tr>
+<td align="center">
+
+🐍 **Learning Python**
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+⬇️
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+💡 **Understanding Programming Concepts**
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+⬇️
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+🛠️ **Building Mini Projects**
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+⬇️
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+🧠 **Solving Problems**
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+⬇️
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+🗄️ **Learning Databases & Tools**
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+⬇️
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+🚀 **Building Larger Projects**
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+⬇️
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+💻 **Developing Real-World Applications**
+
+</td>
+</tr>
+
+</table>
 
 </div>
 
@@ -300,9 +345,9 @@ This repository is created to:
 
 # 👨‍💻 About Me
 
-### 👨‍💻 Nithin M
+## 👨‍💻 Nithin M
 
-**Computer Science & Engineering Student**
+### Computer Science & Engineering Student
 
 ### Interested in:
 
