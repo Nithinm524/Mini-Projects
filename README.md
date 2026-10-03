@@ -487,7 +487,8 @@ Use the knowledge gained to build useful and practical software applications.
 
 </div>
 
-
+<br>
+<br>
 
 # 🎯 Purpose
 
@@ -504,7 +505,8 @@ Through these projects, I aim to:
 - Build a strong project portfolio
 - Track my technical learning progress
 
-
+<br>
+<br>
 
 # 👨‍💻 About Me
 
@@ -528,7 +530,8 @@ My goal is to gradually progress from small learning projects to larger and more
 🧠 Problem Solving  
 📊 Data & Technology
 
-
+<br>
+<br>
 
 ## 📌 Repository Highlights
 
@@ -543,7 +546,8 @@ This repository currently contains **7 Python mini projects** covering different
 
 The projects range from simple programming exercises and interactive applications to management-oriented systems involving data storage and database operations.
 
-
+<br>
+<br>
 
 # ⭐ Repository
 
