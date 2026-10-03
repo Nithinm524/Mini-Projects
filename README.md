@@ -355,7 +355,8 @@ I practice user input, validation and meaningful output through interactive appl
 </table>
 
 </div>
-
+<br>
+<br>
 
 
 # 📈 Learning Journey
