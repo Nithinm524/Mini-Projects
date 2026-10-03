@@ -150,7 +150,7 @@ Random Generation • Strings • Data Handling • User Input
 
 ### 🧠 Quiz Application
 
-An interactive quiz application that presents questions to the user and calculates the final score.
+An interactive Python quiz application that presents questions to the user and calculates the final score.
 
 **Tech Stack**
 
@@ -229,6 +229,7 @@ This repository will continue to grow as I develop more projects and explore new
 <div align="center">
 
 <table align="center">
+
 <tr>
 <td align="center" width="650">
 
@@ -238,15 +239,15 @@ I practice core Python concepts such as variables, data types, functions, loops,
 
 </td>
 </tr>
-</table>
 
-<br>
+<tr>
+<td align="center">
 
-⬇️
+### ⬇
 
-<br>
+</td>
+</tr>
 
-<table align="center">
 <tr>
 <td align="center" width="650">
 
@@ -256,15 +257,15 @@ I work with files and structured data to understand how applications can store, 
 
 </td>
 </tr>
-</table>
 
-<br>
+<tr>
+<td align="center">
 
-⬇️
+### ⬇
 
-<br>
+</td>
+</tr>
 
-<table align="center">
 <tr>
 <td align="center" width="650">
 
@@ -274,15 +275,15 @@ I use SQLite to understand database concepts and learn how applications can stor
 
 </td>
 </tr>
-</table>
 
-<br>
+<tr>
+<td align="center">
 
-⬇️
+### ⬇
 
-<br>
+</td>
+</tr>
 
-<table align="center">
 <tr>
 <td align="center" width="650">
 
@@ -292,15 +293,15 @@ I practice Create, Read, Update and Delete operations while building management-
 
 </td>
 </tr>
-</table>
 
-<br>
+<tr>
+<td align="center">
 
-⬇️
+### ⬇
 
-<br>
+</td>
+</tr>
 
-<table align="center">
 <tr>
 <td align="center" width="650">
 
@@ -310,15 +311,15 @@ Each project gives me an opportunity to break a problem into smaller steps, desi
 
 </td>
 </tr>
-</table>
 
-<br>
+<tr>
+<td align="center">
 
-⬇️
+### ⬇
 
-<br>
+</td>
+</tr>
 
-<table align="center">
 <tr>
 <td align="center" width="650">
 
@@ -328,6 +329,7 @@ I practice taking user input, validating information and providing meaningful ou
 
 </td>
 </tr>
+
 </table>
 
 </div>
@@ -339,8 +341,9 @@ I practice taking user input, validating information and providing meaningful ou
 <div align="center">
 
 <table align="center">
+
 <tr>
-<td align="center" width="550">
+<td align="center" width="600">
 
 ### 🐍 Learn Python
 
@@ -348,17 +351,17 @@ Build a strong foundation in Python programming.
 
 </td>
 </tr>
-</table>
 
-<br>
-
-⬇️
-
-<br>
-
-<table align="center">
 <tr>
-<td align="center" width="550">
+<td align="center">
+
+### ⬇
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="600">
 
 ### 💡 Understand Programming Concepts
 
@@ -366,17 +369,17 @@ Learn how programming concepts work and how they can be applied to solve problem
 
 </td>
 </tr>
-</table>
 
-<br>
-
-⬇️
-
-<br>
-
-<table align="center">
 <tr>
-<td align="center" width="550">
+<td align="center">
+
+### ⬇
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="600">
 
 ### 🛠️ Build Mini Projects
 
@@ -384,17 +387,17 @@ Apply programming knowledge by creating practical applications.
 
 </td>
 </tr>
-</table>
 
-<br>
-
-⬇️
-
-<br>
-
-<table align="center">
 <tr>
-<td align="center" width="550">
+<td align="center">
+
+### ⬇
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="600">
 
 ### 🧠 Solve Problems
 
@@ -402,17 +405,17 @@ Improve logical thinking and develop solutions to programming problems.
 
 </td>
 </tr>
-</table>
 
-<br>
-
-⬇️
-
-<br>
-
-<table align="center">
 <tr>
-<td align="center" width="550">
+<td align="center">
+
+### ⬇
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="600">
 
 ### 🗄️ Explore Databases & Tools
 
@@ -420,17 +423,17 @@ Learn SQLite, Git, GitHub and other development tools.
 
 </td>
 </tr>
-</table>
 
-<br>
-
-⬇️
-
-<br>
-
-<table align="center">
 <tr>
-<td align="center" width="550">
+<td align="center">
+
+### ⬇
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="600">
 
 ### 🚀 Build Larger Projects
 
@@ -438,17 +441,17 @@ Combine different concepts to develop more complete applications.
 
 </td>
 </tr>
-</table>
 
-<br>
-
-⬇️
-
-<br>
-
-<table align="center">
 <tr>
-<td align="center" width="550">
+<td align="center">
+
+### ⬇
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="600">
 
 ### 💻 Develop Real-World Applications
 
@@ -456,6 +459,7 @@ Use the knowledge gained to build useful and practical software applications.
 
 </td>
 </tr>
+
 </table>
 
 </div>
