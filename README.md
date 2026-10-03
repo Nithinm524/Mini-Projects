@@ -20,7 +20,7 @@
 
 Welcome to my **Python Mini Projects** repository.
 
-This repository is a collection of practical projects that I have developed while learning and improving my programming and software development skills. Each project is designed to apply Python concepts to a practical problem and strengthen my understanding through hands-on development.
+This repository contains a collection of practical projects developed as part of my programming and software development learning journey. Each project is designed to apply Python concepts to practical problems and improve my understanding through hands-on development.
 
 The projects range from simple command-line applications and games to applications involving file handling, data management, databases, user interaction and basic application logic.
 
@@ -32,14 +32,14 @@ The projects range from simple command-line applications and games to applicatio
 - 🎮 Interactive command-line applications
 - 🧠 Problem-solving based projects
 - 🔐 Utility-based applications
-- 📊 Applications involving data management
+- 📊 Data management applications
 - 🏨 Real-world inspired management systems
 
 ### 💡 Why I Built These Projects
 
 These mini projects are part of my continuous learning journey. They help me move from understanding programming concepts theoretically to applying them by building working applications.
 
-Through these projects, I practice writing clean code, handling user input, implementing application logic, working with files and databases, debugging errors and improving my problem-solving ability.
+Through these projects, I practice writing code, handling user input, implementing application logic, working with files and databases, debugging errors and improving my problem-solving skills.
 
 ---
 
@@ -70,7 +70,7 @@ Account Management • Data Handling • Database Operations
 
 ### 🎯 Number Guessing Game
 
-A simple interactive game in which the user attempts to guess a randomly generated number.
+A simple interactive game where the user attempts to guess a randomly generated number.
 
 **Tech Stack**
 
@@ -210,7 +210,7 @@ This repository will continue to grow as I develop more projects and explore new
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,sqlite,git,github,vscode" alt="Python, SQLite, Git, GitHub and VS Code">
+<img src="https://skillicons.dev/icons?i=python,sqlite,git,github,vscode" alt="Python SQLite Git GitHub VS Code">
 
 <br><br>
 
@@ -226,59 +226,111 @@ This repository will continue to grow as I develop more projects and explore new
 
 # 📊 What I Practice
 
+<div align="center">
+
+<table align="center">
+<tr>
+<td align="center" width="650">
+
 ### 🐍 Python Programming
 
 I practice core Python concepts such as variables, data types, functions, loops, conditional statements, strings, lists and other programming fundamentals.
 
-<div align="center">
+</td>
+</tr>
+</table>
+
+<br>
 
 ⬇️
 
-</div>
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="650">
 
 ### 📄 File & Data Handling
 
 I work with files and structured data to understand how applications can store, read, update and manage information.
 
-<div align="center">
+</td>
+</tr>
+</table>
+
+<br>
 
 ⬇️
 
-</div>
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="650">
 
 ### 🗄️ Database Management
 
 I use SQLite to understand database concepts and learn how applications can store and retrieve structured information.
 
-<div align="center">
+</td>
+</tr>
+</table>
+
+<br>
 
 ⬇️
 
-</div>
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="650">
 
 ### 🔄 CRUD Operations
 
 I practice Create, Read, Update and Delete operations while building management-oriented applications.
 
-<div align="center">
+</td>
+</tr>
+</table>
+
+<br>
 
 ⬇️
 
-</div>
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="650">
 
 ### 🧠 Problem Solving
 
 Each project gives me an opportunity to break a problem into smaller steps, design a solution and implement it using programming concepts.
 
-<div align="center">
+</td>
+</tr>
+</table>
+
+<br>
 
 ⬇️
 
-</div>
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="650">
 
 ### ⌨️ User Interaction
 
 I practice taking user input, validating information and providing meaningful output through interactive applications.
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -286,31 +338,125 @@ I practice taking user input, validating information and providing meaningful ou
 
 <div align="center">
 
+<table align="center">
+<tr>
+<td align="center" width="550">
+
 ### 🐍 Learn Python
 
-**↓**
+Build a strong foundation in Python programming.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+⬇️
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="550">
 
 ### 💡 Understand Programming Concepts
 
-**↓**
+Learn how programming concepts work and how they can be applied to solve problems.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+⬇️
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="550">
 
 ### 🛠️ Build Mini Projects
 
-**↓**
+Apply programming knowledge by creating practical applications.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+⬇️
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="550">
 
 ### 🧠 Solve Problems
 
-**↓**
+Improve logical thinking and develop solutions to programming problems.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+⬇️
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="550">
 
 ### 🗄️ Explore Databases & Tools
 
-**↓**
+Learn SQLite, Git, GitHub and other development tools.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+⬇️
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="550">
 
 ### 🚀 Build Larger Projects
 
-**↓**
+Combine different concepts to develop more complete applications.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+⬇️
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="550">
 
 ### 💻 Develop Real-World Applications
+
+Use the knowledge gained to build useful and practical software applications.
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -328,7 +474,8 @@ Through these projects, I aim to:
 - Understand file handling and databases
 - Learn how different programming concepts work together
 - Practice developing complete small-scale applications
-- Build a portfolio of projects for future opportunities
+- Build a portfolio of projects
+- Track my learning progress
 
 ---
 
@@ -336,13 +483,13 @@ Through these projects, I aim to:
 
 ### Nithin M
 
-I am a **Computer Science & Engineering student** with an interest in software development and emerging technologies.
+I am a **Computer Science & Engineering student** interested in software development and emerging technologies.
 
-I enjoy learning programming by building practical projects rather than only studying concepts theoretically. Developing mini projects allows me to experiment with different ideas, understand how applications work and improve my ability to solve programming problems.
+I enjoy learning programming by building practical projects and applying concepts through hands-on development. Working on mini projects helps me understand how applications are designed, how data is handled and how different programming concepts work together.
 
-My current areas of interest include **Software Development, Python, Artificial Intelligence, Problem Solving, Data and Technology**.
+My areas of interest include **Software Development, Python, Artificial Intelligence, Problem Solving, Data and Technology**.
 
-I am continuously working on improving my technical skills, building projects and exploring new technologies that can help me grow as a software developer.
+I am continuously improving my technical skills by learning new concepts, building projects, solving programming problems and exploring technologies that can help me grow as a software developer.
 
 ### 💡 Areas of Interest
 
