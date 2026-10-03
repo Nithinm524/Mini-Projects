@@ -5,6 +5,8 @@
 <img src="number-guessing.png" alt="Number Guessing Python Mini Project" width="100%" >
 
 </div>
+<br>
+<br>
 
 ### A Python-Based Interactive Number Guessing Application
 
