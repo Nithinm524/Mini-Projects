@@ -355,17 +355,6 @@ The project demonstrates how fundamental programming concepts can be applied to 
 
 The primary purpose is educational and focuses on understanding application development concepts rather than implementing a production banking system.
 
----
-
-## 👨‍💻 Author
-
-### Nithin M
-
-Computer Science & Engineering Student
-
-Interested in:
-
-**Python • Software Development • Artificial Intelligence • Problem Solving • Data & Technology**
 
 ---
 
