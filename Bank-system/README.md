@@ -374,19 +374,5 @@ The primary purpose is educational and focuses on understanding application deve
 <br>
 <br>
 
-## ⭐ Support
-
-If you find this project useful or interesting, consider giving the repository a ⭐.
-
-Your support motivates me to continue learning, building, and improving more projects.
-
-<br>
-<br>
-
-<div align="center">
-
-### 💡 Learn • Build • Improve
-
-*Made with ❤️ using Python*
 
 </div>
