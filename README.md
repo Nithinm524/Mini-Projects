@@ -18,11 +18,7 @@
 
 <div align="center">
 
-<img 
-  src="python-mini-projects-banner.png"
-  alt="Python Mini Projects"
-  width="100%"
->
+<img  src="python-mini-projects-banner.png" alt="Python Mini Projects" width="100%">
 
 </div>
 
