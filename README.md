@@ -13,8 +13,6 @@
 <img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
 
 </div>
-<br>
-<br>
 
 ---
 
@@ -22,46 +20,44 @@
 
 Welcome to my **Python Mini Projects** repository, a collection of practical applications created as part of my continuous programming and software development learning journey.
 
-This repository represents my approach to learning programming through **hands-on project development**. Instead of limiting my learning to theoretical concepts and individual coding exercises, I use mini projects to understand how programming concepts can be combined to create complete, working applications. Each project focuses on a specific problem or use case and gives me an opportunity to design the program logic, write the code, handle user input, manage data and test the application.
+This repository represents my approach to learning programming through **hands-on project development**. Instead of limiting my learning to theoretical concepts and individual coding exercises, I use mini projects to understand how programming concepts can be combined to create complete, working applications. Each project focuses on a specific problem or use case and gives me an opportunity to design program logic, write code, handle user input, manage data and test the application.
 
-The projects in this repository cover a variety of programming concepts and application areas. They include **management systems, interactive games, utility applications, task management, contact management, quiz applications and booking systems**. Some projects also involve **file handling, CSV data, SQLite databases and CRUD operations**, giving me practical experience in working with persistent data rather than only temporary program output.
+The projects in this repository cover different programming concepts and application areas, including **management systems, interactive games, utility applications, task management, contact management, quiz applications and booking systems**. Some projects also involve **file handling, CSV data, SQLite databases and CRUD operations**, providing practical experience in working with persistent data.
 
 ### 🧠 What I Learn Through These Projects
-
-While developing these applications, I practice several important programming and software development concepts:
 
 - 🐍 **Python Programming**  
   Applying variables, data types, operators, conditional statements, loops, functions, strings, lists and other core Python concepts.
 
-- 🗂️ **Data & File Handling**  
-  Learning how applications can create, read, update and manage information stored in files and structured data formats such as CSV.
+- 📄 **Data & File Handling**  
+  Learning how applications can create, read, update and manage information stored in files and structured formats such as CSV.
 
 - 🗄️ **Database Management**  
   Using SQLite to understand how applications store structured information and retrieve data when required.
 
 - 🔄 **CRUD Operations**  
-  Implementing Create, Read, Update and Delete operations in applications that manage users, records, tasks and other information.
+  Implementing Create, Read, Update and Delete operations in applications that manage records and information.
 
 - 🧠 **Problem Solving**  
-  Breaking real-world problems into smaller components, designing logical solutions and converting those solutions into working programs.
+  Breaking problems into smaller components, designing logical solutions and converting those solutions into working programs.
 
 - ⌨️ **User Interaction**  
-  Handling user input, validating information, displaying appropriate results and creating interactive command-line applications.
+  Handling user input, validating information and displaying meaningful output through interactive applications.
 
 - 🐛 **Debugging & Improvement**  
-  Finding errors, testing different situations and improving programs as I gain a better understanding of programming concepts.
+  Finding errors, testing different situations and improving programs through continuous practice.
 
 ### 🎯 Purpose of This Repository
 
 The main purpose of this repository is to maintain a structured record of my practical programming experience. Each project represents a step in my learning process and allows me to apply concepts that I have studied in a practical environment.
 
-These projects also help me understand the complete development process, starting from identifying a problem and planning a solution to implementing the program, testing its functionality and organizing the source code. As I continue learning, this repository will be updated with new projects that involve more advanced programming concepts, databases, artificial intelligence and other areas of software development.
+These projects also help me understand the development process, from identifying a problem and planning a solution to implementing the program, testing its functionality and organizing the source code.
 
 ### 🚀 Future Direction
 
-This repository is not intended to be a final collection of projects. It is an evolving portfolio that will grow as my technical skills develop. Future projects may include **advanced Python applications, database-driven systems, AI-based applications, automation tools, web applications and larger software projects**.
+This repository will continue to grow as my technical skills develop. Future projects may include **advanced Python applications, database-driven systems, AI-based applications, automation tools, web applications and larger software projects**.
 
-Through continuous practice and project development, my goal is to strengthen my programming fundamentals, improve problem-solving ability and gradually move from small practice projects toward developing more complete and real-world software applications.
+My goal is to gradually progress from small learning projects toward developing more complete and practical software applications.
 
 ---
 
@@ -265,7 +261,7 @@ I practice variables, data types, functions, loops, conditions, strings, lists a
 <tr>
 <td align="center">
 
-### ⬇️
+**⬇️**
 
 </td>
 </tr>
@@ -283,7 +279,7 @@ I work with files and structured data to store, read, update and manage informat
 <tr>
 <td align="center">
 
-### ⬇️
+**⬇️**
 
 </td>
 </tr>
@@ -301,7 +297,7 @@ I use SQLite to understand tables, records, queries and application data storage
 <tr>
 <td align="center">
 
-### ⬇️
+**⬇️**
 
 </td>
 </tr>
@@ -319,7 +315,7 @@ I practice Create, Read, Update and Delete operations through management applica
 <tr>
 <td align="center">
 
-### ⬇️
+**⬇️**
 
 </td>
 </tr>
@@ -337,7 +333,7 @@ I break problems into smaller steps and develop logical programming solutions.
 <tr>
 <td align="center">
 
-### ⬇️
+**⬇️**
 
 </td>
 </tr>
@@ -367,7 +363,7 @@ I practice user input, validation and meaningful output through interactive appl
 <tr>
 <td align="center" width="600">
 
-### 01 🐍 Learn Python
+### 01 · 🐍 Learn Python
 
 Build a strong foundation in Python programming.
 
@@ -377,7 +373,7 @@ Build a strong foundation in Python programming.
 <tr>
 <td align="center">
 
-### ⬇️
+**⬇️**
 
 </td>
 </tr>
@@ -385,7 +381,7 @@ Build a strong foundation in Python programming.
 <tr>
 <td align="center" width="600">
 
-### 02 💡 Understand Programming Concepts
+### 02 · 💡 Understand Concepts
 
 Learn how programming concepts work and how they can be applied to solve problems.
 
@@ -395,7 +391,7 @@ Learn how programming concepts work and how they can be applied to solve problem
 <tr>
 <td align="center">
 
-### ⬇️
+**⬇️**
 
 </td>
 </tr>
@@ -403,7 +399,7 @@ Learn how programming concepts work and how they can be applied to solve problem
 <tr>
 <td align="center" width="600">
 
-### 03 🛠️ Build Mini Projects
+### 03 · 🛠️ Build Mini Projects
 
 Apply programming knowledge by creating practical applications.
 
@@ -413,7 +409,7 @@ Apply programming knowledge by creating practical applications.
 <tr>
 <td align="center">
 
-### ⬇️
+**⬇️**
 
 </td>
 </tr>
@@ -421,7 +417,7 @@ Apply programming knowledge by creating practical applications.
 <tr>
 <td align="center" width="600">
 
-### 04 🧠 Solve Problems
+### 04 · 🧠 Solve Problems
 
 Improve logical thinking and develop solutions to programming problems.
 
@@ -431,7 +427,7 @@ Improve logical thinking and develop solutions to programming problems.
 <tr>
 <td align="center">
 
-### ⬇️
+**⬇️**
 
 </td>
 </tr>
@@ -439,7 +435,7 @@ Improve logical thinking and develop solutions to programming problems.
 <tr>
 <td align="center" width="600">
 
-### 05 🗄️ Explore Databases & Tools
+### 05 · 🗄️ Explore Databases & Tools
 
 Learn SQLite, Git, GitHub and other development tools.
 
@@ -449,7 +445,7 @@ Learn SQLite, Git, GitHub and other development tools.
 <tr>
 <td align="center">
 
-### ⬇️
+**⬇️**
 
 </td>
 </tr>
@@ -457,7 +453,7 @@ Learn SQLite, Git, GitHub and other development tools.
 <tr>
 <td align="center" width="600">
 
-### 06 🚀 Build Larger Projects
+### 06 · 🚀 Build Larger Projects
 
 Combine different concepts to develop more complete applications.
 
@@ -467,7 +463,7 @@ Combine different concepts to develop more complete applications.
 <tr>
 <td align="center">
 
-### ⬇️
+**⬇️**
 
 </td>
 </tr>
@@ -475,7 +471,7 @@ Combine different concepts to develop more complete applications.
 <tr>
 <td align="center" width="600">
 
-### 07 💻 Develop Real-World Applications
+### 07 · 💻 Develop Real-World Applications
 
 Use the knowledge gained to build useful and practical software applications.
 
@@ -531,31 +527,83 @@ My goal is to gradually progress from small learning projects to larger and more
 
 # 📌 Repository Highlights
 
-| 📌 Category | Details |
-|:---|:---|
-| 🐍 Primary Language | Python |
-| 🗄️ Database | SQLite |
-| 📄 Data Handling | CSV & File Handling |
-| 🔧 Version Control | Git |
-| 🐙 Repository | GitHub |
-| 💻 Development Environment | VS Code |
-| 📂 Mini Projects | 7+ |
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+
+### 🐍
+
+**Primary Language**
+
+Python
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️
+
+**Database**
+
+SQLite
+
+</td>
+
+<td align="center" width="25%">
+
+### 📂
+
+**Projects**
+
+7+ Mini Projects
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔧
+
+**Tools**
+
+Git & GitHub
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # ⭐ Repository
 
-<div align="center">
+<table align="center">
+<tr>
+
+<td width="55%" valign="middle">
+
+### ⭐ Support the Repository
 
 If you find these projects useful or interesting, consider giving this repository a ⭐.
 
-**Your support helps me continue learning, building and improving.**
+Your support motivates me to continue learning, building and improving my projects.
+
+</td>
+
+<td width="45%" align="center" valign="middle">
+
+### 🚀 Keep Learning
+
+**Learn** → **Build** → **Practice** → **Improve**
 
 <br>
 
-⭐ **Star this repository if you find it useful!** ⭐
+⭐ **Star this repository**
 
-</div>
+</td>
+
+</tr>
+</table>
 
 ---
 
