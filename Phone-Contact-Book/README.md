@@ -2,17 +2,18 @@
 
 ### A Python-Based Contact Management Application
 
-The **Phone Contact Book** is a Python-based mini project designed to provide a simple, organized and efficient way to store and manage personal contact information. The application allows users to maintain important details such as contact names, phone numbers and email addresses through a simple command-line interface.
+The **Phone Contact Book** is a Python-based mini project designed to provide a simple, organized and efficient way to store and manage personal contact information. The application allows users to maintain important details such as contact names, phone numbers, and email addresses through a simple command-line interface.
 
-In everyday situations, people may need to manage a large number of contacts and frequently perform operations such as adding a new contact, finding an existing contact, changing an outdated phone number or removing a contact that is no longer required. A digital contact management system makes these operations easier by allowing information to be stored systematically and accessed whenever required.
+In everyday situations, people may need to manage a large number of contacts and frequently perform operations such as adding a new contact, finding an existing contact, changing an outdated phone number, or removing a contact that is no longer required. A digital contact management system makes these operations easier by allowing information to be stored systematically and accessed whenever required.
 
-This project demonstrates how fundamental Python programming concepts can be combined to develop a practical data management application. Instead of implementing only individual programming examples, the project combines **variables, functions, conditional statements, loops, user input, string processing, file handling, data validation and database operations** into one complete application.
+This project demonstrates how fundamental Python programming concepts can be combined to develop a practical data management application. Instead of implementing only individual programming examples, the project combines **variables, functions, conditional statements, loops, user input, string processing, file handling, data validation, and database operations** into one complete application.
 
 The project contains two different implementations for storing contact information. The **CSV-based implementation** uses a CSV file to store and retrieve contact records, while the **SQLite-based implementation** uses a local SQLite database and SQL queries to manage the same type of information. This provides practical experience in understanding the difference between simple file-based storage and structured database storage.
 
 The Phone Contact Book is developed as part of my **Python Mini Projects** collection to strengthen programming fundamentals through practical implementation. It also provides a foundation for understanding how simple command-line applications can be gradually extended into more advanced contact management systems.
 
----
+<br>
+<br>
 
 <div align="center">
 
@@ -20,13 +21,14 @@ The Phone Contact Book is developed as part of my **Python Mini Projects** colle
 
 </div>
 
----
+<br>
+<br>
 
 ## 📌 Project Overview
 
-The Phone Contact Book is a menu-driven Python application that allows users to manage contact information through a sequence of simple operations. The application is designed around the basic CRUD concept, which represents **Create, Read, Update and Delete** operations.
+The Phone Contact Book is a menu-driven Python application that allows users to manage contact information through a sequence of simple operations. The application is designed around the basic CRUD concept, which represents **Create, Read, Update, and Delete** operations.
 
-When the application starts, the user is presented with a menu containing different options. The user can choose to add a new contact, display existing contacts, search for a particular contact, update an existing record or delete a contact.
+When the application starts, the user is presented with a menu containing different options. The user can choose to add a new contact, display existing contacts, search for a particular contact, update an existing record, or delete a contact.
 
 When a new contact is added, the application collects the required information from the user and stores it permanently. The stored information can later be retrieved using the view or search operations. If a contact's information changes, the update operation allows the existing record to be modified without creating a completely new contact.
 
@@ -36,7 +38,8 @@ The project also demonstrates two different approaches to data persistence. In t
 
 The project therefore serves two purposes: it provides a useful contact management application and demonstrates how Python applications can interact with different types of data storage systems.
 
----
+<br>
+<br>
 
 ## 💡 Problem Statement
 
@@ -59,7 +62,8 @@ The system should allow users to:
 
 The project focuses on implementing these operations in a simple and understandable manner while demonstrating practical Python programming techniques.
 
----
+<br>
+<br>
 
 ## 🎯 Objectives
 
@@ -82,7 +86,8 @@ The major objectives are:
 - To gain practical experience in developing menu-driven applications.
 - To understand how a simple project can be implemented using different storage mechanisms.
 
----
+<br>
+<br>
 
 ## ✨ Features
 
@@ -96,7 +101,8 @@ Once the information is accepted, the contact is stored in the selected storage 
 
 This feature represents the **Create** operation in CRUD.
 
----
+<br>
+<br>
 
 ### 👀 View Contacts
 
@@ -110,7 +116,8 @@ In the CSV implementation, the program reads the records from the CSV file. In t
 
 This feature represents the **Read** operation in CRUD.
 
----
+<br>
+<br>
 
 ### 🔍 Search Contact
 
@@ -120,7 +127,8 @@ The user can provide a search value such as a name or phone number. The applicat
 
 This feature demonstrates how stored data can be filtered based on user requirements. It also improves the usability of the application when a large number of contacts are present.
 
----
+<br>
+<br>
 
 ### ✏️ Update Contact
 
@@ -132,7 +140,8 @@ The application identifies the appropriate contact, accepts the new information 
 
 This feature represents the **Update** operation in CRUD.
 
----
+<br>
+<br>
 
 ### 🗑️ Delete Contact
 
@@ -144,7 +153,8 @@ In the CSV implementation, the required records can be read and rewritten withou
 
 This feature represents the **Delete** operation in CRUD.
 
----
+<br>
+<br>
 
 ### 📞 Contact Information
 
@@ -156,7 +166,8 @@ The application can maintain important information associated with each contact,
 
 These fields provide a basic structure for maintaining useful contact information while keeping the project simple enough for learning and experimentation.
 
----
+<br>
+<br>
 
 ### 💾 CSV Data Storage
 
@@ -168,7 +179,8 @@ The Python program can read existing records from the CSV file, add new records 
 
 This implementation helps demonstrate how applications can maintain data even after the program is closed.
 
----
+<br>
+<br>
 
 ### 🗄️ SQLite Database Storage
 
@@ -180,7 +192,8 @@ Operations such as inserting a contact, retrieving records, updating information
 
 This implementation provides practical experience with database-based application development.
 
----
+<br>
+<br>
 
 ### 🔄 Menu-Driven Interface
 
@@ -190,7 +203,8 @@ The user is shown a list of available operations and selects the required option
 
 This structure makes the application easy to understand and demonstrates how loops can be used to maintain continuous program execution.
 
----
+<br>
+<br>
 
 ### ✅ Input Validation
 
@@ -200,7 +214,8 @@ For example, the program can check whether the contact name is empty, whether a 
 
 Validation improves the reliability of the stored information and demonstrates how programs can handle incorrect user input.
 
----
+<br>
+<br>
 
 ## 🛠️ Technologies Used
 
@@ -212,7 +227,8 @@ It provides the programming structures required for user input, conditional logi
 
 Python's simple syntax also makes it suitable for developing and understanding beginner-friendly applications.
 
----
+<br>
+<br>
 
 ### 📄 CSV
 
@@ -222,7 +238,9 @@ The CSV format organizes information into rows and columns, making it suitable f
 
 Python's CSV functionality allows the program to read and write contact information without requiring an external database server.
 
----
+<br>
+<br>
+
 
 ### 🗄️ SQLite
 
@@ -232,7 +250,8 @@ It provides a lightweight relational database that can be stored locally as a da
 
 SQLite is useful for learning database concepts because it does not require a separate database server.
 
----
+<br>
+<br>
 
 ### 💻 Command-Line Interface
 
@@ -240,7 +259,9 @@ The application uses the terminal or command prompt as its user interface.
 
 The command-line approach keeps the project simple and allows the main focus to remain on programming logic, data management and storage operations.
 
----
+<br>
+<br>
+
 
 ## 🧠 Programming Concepts Used
 
@@ -260,7 +281,7 @@ This allows the application to interact dynamically with the person using the pr
 
 ### Conditional Statements
 
-`if`, `elif` and `else` statements are used to determine which operation should be performed based on the user's menu selection.
+`if`, `elif,` and `else` statements are used to determine which operation should be performed based on the user's menu selection.
 
 ### Loops
 
@@ -276,11 +297,11 @@ Functions can be used to divide the application into smaller logical components 
 - Update Contact
 - Delete Contact
 
-This makes the program easier to understand, maintain and modify.
+This makes the program easier to understand, maintain, and modify.
 
 ### File Handling
 
-The CSV implementation uses file handling concepts to open, read and write contact information.
+The CSV implementation uses file handling concepts to open, read, and write contact information.
 
 ### CSV Processing
 
@@ -292,7 +313,7 @@ The SQLite implementation demonstrates how Python can connect to a database and 
 
 ### CRUD Operations
 
-The project provides practical implementation of:
+The project provides a practical implementation of:
 
 ```text
 Create → Add Contact
@@ -303,13 +324,15 @@ Delete → Remove Contact
 
 ### Exception Handling
 
-Exception handling can be used to prevent the program from terminating unexpectedly when an invalid input or unexpected operation occurs.
+Exception handling can be used to prevent the program from terminating unexpectedly when invalid input or an unexpected operation occurs.
 
 ### Input Validation
 
 Validation ensures that the information entered by the user satisfies basic requirements before being stored.
 
----
+<br>
+<br>
+
 
 ## ⚙️ How the System Works
 
@@ -333,7 +356,8 @@ After completing an operation, the program can return to the main menu. This all
 
 The application continues this process until the user selects the **Exit** option.
 
----
+<br>
+<br>
 
 ## 🔄 Contact Management Flow
 
@@ -371,7 +395,8 @@ The actual operation performed depends on the option selected by the user. After
 
 This flow demonstrates how **input, decision-making, data processing, storage and repetition** work together in a practical Python application.
 
----
+<br>
+<br>
 
 ## 📂 Project Structure
 
@@ -392,7 +417,8 @@ This file contains the complete implementation of the Phone Contact Book using *
 
 The program demonstrates how Python can be used to perform data management operations without requiring a database system.
 
----
+<br>
+<br>
 
 **`contact_book_sqlite.py`**
 
@@ -402,7 +428,8 @@ The program creates or connects to the local SQLite database and performs operat
 
 This version demonstrates how Python applications can use SQL and relational database concepts for structured data management.
 
----
+<br>
+<br>
 
 **`phone-contact-book.png`**
 
@@ -410,7 +437,9 @@ This image is the visual banner used in the README file to represent the Phone C
 
 It provides a visual introduction to the project and makes the GitHub documentation more attractive and professional.
 
----
+<br>
+<br>
+
 
 **`README.md`**
 
@@ -418,7 +447,9 @@ This file contains the complete documentation of the Phone Contact Book project.
 
 It explains the project overview, problem statement, objectives, features, technologies, programming concepts, working process, flow, project structure, file descriptions, execution instructions, learning outcomes and possible future improvements.
 
----
+<br>
+<br>
+
 
 ## ▶️ How to Run
 
@@ -434,7 +465,8 @@ python --version
 
 If Python is installed correctly, the terminal will display the installed Python version.
 
----
+<br>
+<br>
 
 ### Step 2: Open the Project Folder
 
@@ -444,7 +476,8 @@ Open a terminal or command prompt and navigate to the Phone Contact Book directo
 cd Phone-Contact-Book
 ```
 
----
+<br>
+<br>
 
 ### Step 3: Run the CSV Version
 
@@ -456,7 +489,8 @@ python contact_book_csv.py
 
 The program will start in the terminal and use CSV file storage for maintaining contact records.
 
----
+<br>
+<br>
 
 ### Step 4: Run the SQLite Version
 
@@ -468,7 +502,8 @@ python contact_book_sqlite.py
 
 The program will start and use the SQLite database for storing contact information.
 
----
+<br>
+<br>
 
 ## 💻 Example Usage
 
@@ -499,7 +534,8 @@ Enter Email: rahul@example.com
 
 The entered information is then stored in the selected storage system.
 
----
+<br>
+<br>
 
 ### Viewing Contacts
 
@@ -517,7 +553,8 @@ Email: priya@example.com
 
 The application retrieves and displays the available contact records.
 
----
+<br>
+<br>
 
 ### Searching for a Contact
 
@@ -528,14 +565,15 @@ Enter name to search: Rahul
 
 🔍 Contact Found
 
-Name  : Rahul
-Phone : 9876543210
-Email : rahul@example.com
+Name : Rahul
+Phone: 9876543210
+Email: rahul@example.com
 ```
 
 The program searches the stored records and displays the matching contact.
 
----
+<br>
+<br>
 
 ### Updating a Contact
 
@@ -552,7 +590,8 @@ Enter New Email: rahul_new@example.com
 
 The existing contact information is replaced with the updated information.
 
----
+<br>
+<br>
 
 ### Deleting a Contact
 
@@ -566,7 +605,8 @@ Enter name to delete: Rahul
 
 The selected contact is removed from the storage system.
 
----
+<br>
+<br>
 
 ## 🗃️ Data Management
 
@@ -583,7 +623,7 @@ Each row represents a contact, while the columns represent individual attributes
 A simplified structure can be represented as:
 
 ```text
-Name,Phone,Email
+Name, Phone, Email
 Rahul,9876543210,rahul@example.com
 Priya,9123456780,priya@example.com
 ```
@@ -596,7 +636,8 @@ For updating or deleting records, the program can read the existing information,
 
 This approach is simple and useful for learning basic data persistence and file handling.
 
----
+<br>
+<br>
 
 ### 🗄️ SQLite-Based Storage
 
@@ -628,7 +669,8 @@ DELETE → Remove a contact
 
 This approach provides practical experience with relational databases and SQL-based data management.
 
----
+<br>
+<br>
 
 ## 🔐 Data Validation
 
@@ -642,7 +684,8 @@ Basic validation can also be applied to email addresses to ensure that the user 
 
 Validation helps prevent incomplete records and improves the overall reliability of the application.
 
----
+<br>
+<br>
 
 ## 📚 Learning Outcomes
 
@@ -662,7 +705,8 @@ Another important learning outcome was understanding that the same application f
 
 Overall, the project strengthened my understanding of Python programming, data management, CRUD operations, file handling and database connectivity.
 
----
+<br>
+<br>
 
 ## 🔮 Future Enhancements
 
@@ -691,7 +735,8 @@ Possible future enhancements include:
 
 These enhancements can gradually transform the basic command-line application into a complete contact management platform.
 
----
+<br>
+<br>
 
 ## 🎓 Project Purpose
 
@@ -705,20 +750,9 @@ The two implementations also provide an opportunity to understand the difference
 
 The project is primarily intended for **learning and educational purposes** and can serve as a foundation for developing more advanced Python applications involving file handling, databases and user interfaces.
 
----
+<br>
+<br>
 
-## ⭐ Support
 
-If you find this project useful or interesting, consider giving the repository a ⭐.
-
-Your support motivates me to continue learning, building and improving more Python projects.
-
----
-
-<div align="center">
-
-### 📱 Store • Search • Manage
-
-*Made with ❤️ using Python*
 
 </div>
