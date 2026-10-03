@@ -10,10 +10,16 @@
 
 <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+
+<br><br>
+
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="55" height="55" alt="SQLite">
+
+<br>
+
+**SQLite Database**
 
 </div>
-
 ---
 
 ## 📖 About This Repository
