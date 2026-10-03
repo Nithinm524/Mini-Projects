@@ -2,27 +2,28 @@
 
 ### A Python-Based Banking Application for Account and Transaction Management
 
-The **Bank Management System** is a practical Python-based mini project developed to simulate the basic operations performed in a banking environment. The project provides a simple and structured way to create and manage customer accounts, store account information, search for existing records and perform essential banking transactions such as depositing and withdrawing money.
+The **Bank Management System** is a practical Python-based mini-project developed to simulate the basic operations performed in a banking environment. The project provides a simple and structured way to create and manage customer accounts, store account information, search for existing records, and perform essential banking transactions such as depositing and withdrawing money.
 
-The application is designed as a learning-oriented implementation of a small banking system. It demonstrates how programming concepts such as **functions, conditional statements, loops, user input, data validation, file handling, database operations and CRUD operations** can be combined to develop a functional application.
+The application is designed as a learning-oriented implementation of a small banking system. It demonstrates how programming concepts such as **functions, conditional statements, loops, user input, data validation, file handling, database operations, and CRUD operations** can be combined to develop a functional application.
 
 The project also explores two different approaches to data storage. Customer and account information can be managed using **CSV files** for simple file-based storage, while the SQLite implementation provides a structured database-based approach for storing and retrieving records. This allows the project to demonstrate how application data can be maintained beyond the execution of the program.
 
 The main purpose of developing this project is to gain practical experience in designing a menu-driven application, managing structured information and implementing operations that resemble real-world banking workflows in a simplified educational environment.
 
----
+<br>
+<br>
 
 ## 📌 Project Overview
 
 A banking application needs to maintain customer information accurately and provide operations for managing accounts and transactions. This project demonstrates a simplified version of such a system using Python.
 
-The **Bank Management System** allows the user to interact with the application through a menu-driven interface. Depending on the selected operation, the program accepts the required information, processes the request and displays the appropriate result.
+The **Bank Management System** allows the user to interact with the application through a menu-driven interface. Depending on the selected operation, the program accepts the required information, processes the request, and displays the appropriate result.
 
 For example, when creating an account, the application collects customer and account information and stores the record. When an existing account needs to be accessed, the user can search for the account and retrieve its stored information. Similarly, deposit and withdrawal operations modify the account balance according to the selected transaction.
 
 The project also demonstrates the importance of data persistence. Instead of keeping all information only in program memory, account records can be stored using CSV files or an SQLite database. This means that information can be retrieved when the application is executed again.
 
-The CSV implementation provides an easy way to understand structured file storage, while the SQLite implementation introduces database concepts such as tables, records, SQL queries and database connections.
+The CSV implementation provides an easy way to understand structured file storage, while the SQLite implementation introduces database concepts such as tables, records, SQL queries, and database connections.
 
 Overall, the project connects fundamental Python programming concepts with practical application development and provides a foundation for understanding how larger management systems can be designed.
 
@@ -51,11 +52,11 @@ The specific objectives are:
 
 ## 💡 Problem Statement
 
-Managing banking information manually can become difficult when the number of customers and transactions increases. A banking system needs a structured way to maintain account information, retrieve customer records and perform transactions while keeping the stored data organized.
+Managing banking information manually can become difficult when the number of customers and transactions increases. A banking system needs a structured way to maintain account information, retrieve customer records, and perform transactions while keeping the stored data organized.
 
 The objective of this project is to develop a simplified computer-based banking system that can perform common account management operations through a user-friendly menu-driven interface.
 
-The system provides a basic foundation for understanding how banking-related information can be stored, retrieved and modified using programming and database technologies.
+The system provides a basic foundation for understanding how banking-related information can be stored, retrieved, and modified using programming and database technologies.
 
 This project is not intended to represent a production banking platform. Instead, it provides an educational implementation that demonstrates the programming logic behind basic account and transaction management.
 
@@ -93,7 +94,7 @@ The project supports persistent storage using **CSV files and SQLite databases**
 
 ### 🐍 Python
 
-Python is used as the primary programming language for developing the application logic, handling user interaction and implementing banking operations.
+Python is used as the primary programming language for developing the application logic, handling user interaction, and implementing banking operations.
 
 ### 🗄️ SQLite
 
@@ -105,11 +106,11 @@ CSV is used for simple file-based data storage. It provides an easy-to-understan
 
 ### 📂 File Handling
 
-Python file-handling concepts are used to create, read and manage stored data.
+Python file-handling concepts are used to create, read, and manage stored data.
 
 ### 🔄 CRUD Operations
 
-The project provides practical experience with Create, Read, Update and Delete operations for managing application records.
+The project provides practical experience with Create, Read, Update, and Delete operations for managing application records.
 
 ---
 
@@ -141,9 +142,9 @@ This project provides practical experience with the following programming concep
 
 The application follows a menu-driven approach. When the program starts, the user is presented with the available banking operations.
 
-The user selects an operation according to the required task. The application then collects the necessary information, validates the input and performs the selected operation.
+The user selects an operation according to the required task. The application then collects the necessary information, validates the input, and performs the selected operation.
 
-For account-related operations, the program either creates a new record or searches for an existing record. For transaction operations, the application retrieves the account information, performs the required calculation and updates the stored data.
+For account-related operations, the program either creates a new record or searches for an existing record. For transaction operations, the application retrieves the account information, performs the required calculation, and updates the stored data.
 
 When the SQLite implementation is used, the information is maintained inside a database. When the CSV implementation is used, the information is maintained inside a structured CSV file.
 
@@ -193,7 +194,7 @@ One of the important learning aspects of this project is understanding how appli
 
 ### 📄 CSV Storage
 
-The CSV-based implementation stores account information in a structured text file. Each row represents a record and each column represents a particular field.
+The CSV-based implementation stores account information in a structured text file. Each row represents a record, and each column represents a particular field.
 
 This approach is useful for understanding basic file handling and structured data management without requiring a separate database server.
 
@@ -231,13 +232,13 @@ The database-based implementation that uses SQLite for storing and retrieving ba
 
 The CSV data file used for file-based storage of account information.
 
-**`bank.db`**
+**` bank.db`**
 
 The SQLite database file used to store structured banking records.
 
 **`README.md`**
 
-The documentation file containing information about the project, features, technologies, structure and usage instructions.
+The documentation file contains information about the project, features, technologies, structure, and usage instructions.
 
 ---
 
@@ -302,7 +303,7 @@ The exact menu options depend on the implementation contained in the Python file
 
 ## 📚 Learning Outcomes
 
-Developing this project provided practical experience in connecting programming concepts with a real-world inspired application.
+Developing this project provided practical experience in connecting programming concepts with a real-world-inspired application.
 
 Through this project, I learned how to:
 
@@ -349,9 +350,9 @@ These improvements would allow the project to gradually evolve from a basic lear
 
 ## 🎓 Project Purpose
 
-This project was developed as a **Python mini project** to gain practical experience in programming, data management and database operations.
+This project was developed as a **Python mini project** to gain practical experience in programming, data management, and database operations.
 
-The project demonstrates how fundamental programming concepts can be applied to a real-world inspired problem. It combines **Python programming, file handling, CSV processing, SQLite databases, CRUD operations and user interaction** into a single application.
+The project demonstrates how fundamental programming concepts can be applied to a real-world-inspired problem. It combines **Python programming, file handling, CSV processing, SQLite databases, CRUD operations, and user interaction** into a single application.
 
 The primary purpose is educational and focuses on understanding application development concepts rather than implementing a production banking system.
 
@@ -362,7 +363,7 @@ The primary purpose is educational and focuses on understanding application deve
 
 If you find this project useful or interesting, consider giving the repository a ⭐.
 
-Your support motivates me to continue learning, building and improving more projects.
+Your support motivates me to continue learning, building, and improving more projects.
 
 ---
 
