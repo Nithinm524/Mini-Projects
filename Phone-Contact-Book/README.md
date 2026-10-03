@@ -525,7 +525,7 @@ Enter your choice: 1
 ```
 
 ### Adding a Contact
-
+---
 ```text
 Enter Name: Rahul
 Enter Phone Number: 9876543210
@@ -540,7 +540,7 @@ The entered information is then stored in the selected storage system.
 <br>
 
 ### Viewing Contacts
-
+---
 ```text
 Enter your choice: 2
 
@@ -559,7 +559,7 @@ The application retrieves and displays the available contact records.
 <br>
 
 ### Searching for a Contact
-
+---
 ```text
 Enter your choice: 3
 
@@ -578,7 +578,7 @@ The program searches the stored records and displays the matching contact.
 <br>
 
 ### Updating a Contact
-
+---
 ```text
 Enter your choice: 4
 
@@ -596,7 +596,7 @@ The existing contact information is replaced with the updated information.
 <br>
 
 ### Deleting a Contact
-
+---
 ```text
 Enter your choice: 5
 
@@ -611,13 +611,13 @@ The selected contact is removed from the storage system.
 <br>
 
 ## 🗃️ Data Management
-
+---
 One of the important aspects of this project is understanding how application data can be stored and maintained.
 
 The project uses two different storage approaches: **CSV-based storage** and **SQLite-based storage**.
 
 ### 📄 CSV-Based Storage
-
+---
 The CSV implementation stores contact information in a file containing structured rows and columns.
 
 Each row represents a contact, while the columns represent individual attributes such as name, phone number and email.
