@@ -575,39 +575,23 @@ Git & GitHub
 
 ---
 
+---
+
 # ⭐ Repository
 
-<table align="center">
-<tr>
-
-<td width="55%" valign="middle">
+<div align="center">
 
 ### ⭐ Support the Repository
 
 If you find these projects useful or interesting, consider giving this repository a ⭐.
 
-Your support motivates me to continue learning, building and improving my projects.
-
-</td>
-
-<td width="45%" align="center" valign="middle">
-
-### 🚀 Keep Learning
-
-**Learn** → **Build** → **Practice** → **Improve**
+**Your support helps me continue learning, building and improving.**
 
 <br>
 
-⭐ **Star this repository**
+⭐ **Star this repository if you find it useful!** ⭐
 
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
+<br>
 
 ### 💡 Learn • Build • Improve
 
