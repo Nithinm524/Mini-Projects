@@ -1,10 +1,12 @@
 <div align="center">
+  
+# 🏦 Bank Management System
 
 <img src="bank-management-banner.png" alt="Bank Management System" width="100%">
 
 </div>
 
-# 🏦 Bank Management System
+
 
 ### A Python-Based Banking Application for Account and Transaction Management
 
