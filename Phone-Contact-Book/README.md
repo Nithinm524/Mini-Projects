@@ -407,9 +407,10 @@ Phone-Contact-Book/
 │
 ├── contact_book_csv.py
 ├── contact_book_sqlite.py
-├── phone-contact-book.png
 └── README.md
 ```
+<br>
+<br>
 
 ### 📄 File Description
 ---
