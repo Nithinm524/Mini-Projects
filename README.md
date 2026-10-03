@@ -525,57 +525,20 @@ My goal is to gradually progress from small learning projects to larger and more
 
 ---
 
-# 📌 Repository Highlights
-
-<table align="center">
-<tr>
-
-<td align="center" width="25%">
-
-### 🐍
-
-**Primary Language**
-
-Python
-
-</td>
-
-<td align="center" width="25%">
-
-### 🗄️
-
-**Database**
-
-SQLite
-
-</td>
-
-<td align="center" width="25%">
-
-### 📂
-
-**Projects**
-
-7+ Mini Projects
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔧
-
-**Tools**
-
-Git & GitHub
-
-</td>
-
-</tr>
-</table>
-
 ---
 
----
+## 📌 Repository Highlights
+
+This repository currently contains **7 Python mini projects** covering different areas of practical programming and application development.
+
+**Primary Language:** Python  
+**Database:** SQLite  
+**Data Handling:** CSV & File Handling  
+**Version Control:** Git & GitHub  
+**Development Environment:** VS Code  
+**Project Type:** Practical Python Mini Projects
+
+The projects range from simple programming exercises and interactive applications to management-oriented systems involving data storage and database operations.
 
 ---
 
