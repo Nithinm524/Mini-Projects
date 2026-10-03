@@ -2,7 +2,6 @@
 
 ### A Python-Based Banking Application for Account and Transaction Management
 <br>
-<br>
 
 The **Bank Management System** is a practical Python-based mini-project that simulates basic operations in a banking environment. The project provides a simple and structured way to create and manage customer accounts, store account information, search for existing records, and perform essential banking transactions such as depositing and withdrawing money.
 
