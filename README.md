@@ -19,7 +19,7 @@
 <div align="center">
 
 <img 
-  src="./assets/python-mini-projects-banner.png" 
+  src="python-mini-projects-banner.png" 
   alt="Python Mini Projects"
   width="100%"
 >
