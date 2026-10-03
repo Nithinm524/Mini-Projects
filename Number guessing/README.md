@@ -120,7 +120,7 @@ This project provides practical experience with several fundamental Python conce
 - User input
 - Type conversion
 - Conditional statements
-- `if`, `elif,` and `else`
+- `if`, `elif,`, and `else`
 - `while` loops
 - Comparison operators
 - Random number generation
@@ -212,7 +212,8 @@ Display Result
 
 This simple flow demonstrates how decision-making and repetition are used together in an interactive program.
 
----
+<br>
+<br>
 
 ## 📂 Project Structure
 
@@ -223,6 +224,8 @@ Number-Guessing/
 ├── guessing_game_sqlite.py
 └── README.md
 ```
+<br>
+<br>
 
 ### 📄 File Description
 
