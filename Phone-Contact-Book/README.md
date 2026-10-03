@@ -615,6 +615,7 @@ The selected contact is removed from the storage system.
 <br>
 
 ### 🗃️ Data Management
+---
 
 One of the important aspects of this project is understanding how application data can be stored and maintained.
 
