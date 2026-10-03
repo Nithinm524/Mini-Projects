@@ -577,24 +577,20 @@ Git & GitHub
 
 ---
 
+---
+
 # ⭐ Repository
 
 <div align="center">
-
-### ⭐ Support the Repository
 
 If you find these projects useful or interesting, consider giving this repository a ⭐.
 
 **Your support helps me continue learning, building and improving.**
 
-<br>
-
 ⭐ **Star this repository if you find it useful!** ⭐
-
-<br>
 
 ### 💡 Learn • Build • Improve
 
-**Made with ❤️ using Python**
+*Made with ❤️ using Python*
 
 </div>
