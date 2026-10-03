@@ -240,6 +240,7 @@ The Python program that implements the Number Guessing Game using an **SQLite da
 **`README.md`**
 
 The documentation file containing detailed information about the project, objectives, features, technologies, programming concepts, working process, project structure, learning outcomes, and usage instructions.
+
 <br>
 <br>
 
