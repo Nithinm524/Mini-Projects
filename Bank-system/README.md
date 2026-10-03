@@ -50,7 +50,8 @@ The specific objectives are:
 - To improve logical thinking and problem-solving skills.
 - To understand how multiple programming concepts work together in a complete application.
 
----
+<br>
+<br>
 
 ## 💡 Problem Statement
 
@@ -62,7 +63,8 @@ The system provides a basic foundation for understanding how banking-related inf
 
 This project is not intended to represent a production banking platform. Instead, it provides an educational implementation that demonstrates the programming logic behind basic account and transaction management.
 
----
+<br>
+<br>
 
 ## ✨ Features
 
@@ -90,7 +92,8 @@ Users can retrieve and display stored account information through the applicatio
 
 The project supports persistent storage using **CSV files and SQLite databases**, allowing account information to remain available after the program is closed.
 
----
+<br>
+<br>
 
 ## 🛠️ Technologies Used
 
@@ -114,7 +117,8 @@ Python file-handling concepts are used to create, read, and manage stored data.
 
 The project provides practical experience with Create, Read, Update, and Delete operations for managing application records.
 
----
+<br>
+<br>
 
 ## 🧠 Concepts Implemented
 
@@ -138,7 +142,8 @@ This project provides practical experience with the following programming concep
 - Basic application design
 - Debugging and testing
 
----
+<br>
+<br>
 
 ## ⚙️ How the System Works
 
@@ -188,7 +193,8 @@ A simplified workflow is:
                  └───────────────────┘
 ```
 
----
+<br>
+<br>
 
 ## 💾 Data Storage
 
@@ -206,7 +212,8 @@ The SQLite implementation stores information in a database file. Account records
 
 SQLite provides a more structured approach to data management and helps demonstrate how Python applications interact with databases.
 
----
+<br>
+<br>
 
 ## 📂 Project Structure
 
@@ -242,7 +249,8 @@ The SQLite database file used to store structured banking records.
 
 The documentation file contains information about the project, features, technologies, structure, and usage instructions.
 
----
+<br>
+<br>
 
 ## ▶️ How to Run
 
@@ -284,7 +292,8 @@ python bank_sqlite.py
 
 > Replace `your-username/your-repository` with the actual URL of your GitHub repository.
 
----
+<br>
+<br>
 
 ## 🖥️ Example Operations
 
@@ -301,7 +310,8 @@ The application can provide operations such as:
 
 The exact menu options depend on the implementation contained in the Python files.
 
----
+<br>
+<br>
 
 ## 📚 Learning Outcomes
 
@@ -325,7 +335,8 @@ Through this project, I learned how to:
 
 The project also helped me understand that developing an application involves more than writing individual pieces of code. Different programming concepts need to work together to create a complete and usable system.
 
----
+<br>
+<br>
 
 ## 🔮 Future Enhancements
 
@@ -348,7 +359,8 @@ Possible improvements include:
 
 These improvements would allow the project to gradually evolve from a basic learning application into a more complete banking management system.
 
----
+<br>
+<br>
 
 ## 🎓 Project Purpose
 
@@ -359,7 +371,8 @@ The project demonstrates how fundamental programming concepts can be applied to 
 The primary purpose is educational and focuses on understanding application development concepts rather than implementing a production banking system.
 
 
----
+<br>
+<br>
 
 ## ⭐ Support
 
@@ -367,7 +380,8 @@ If you find this project useful or interesting, consider giving the repository a
 
 Your support motivates me to continue learning, building, and improving more projects.
 
----
+<br>
+<br>
 
 <div align="center">
 
