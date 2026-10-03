@@ -620,6 +620,9 @@ The selected contact is removed from the storage system.
 One of the important aspects of this project is understanding how application data can be stored and maintained.
 
 The project uses two different storage approaches: **CSV-based storage** and **SQLite-based storage**.
+<br>
+<br>
+
 
 ### 📄 CSV-Based Storage
 ---
