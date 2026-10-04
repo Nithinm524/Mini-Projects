@@ -17,11 +17,7 @@ This project was developed as part of my **Python Mini Projects** collection to 
 
 <div align="center">
 
-<img 
-  src="to-do-list.png"
-  alt="To-Do List Python Mini Project"
-  width="100%"
->
+<img  src="to-do-list.png" alt="To-Do List Python Mini Project" width="100%">
 
 </div>
 
