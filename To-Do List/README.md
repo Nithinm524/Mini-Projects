@@ -47,9 +47,9 @@ This makes the project useful not only as a basic task management application bu
 
 ## 💡 Problem Statement
 
-Managing daily activities, academic work, project tasks and personal responsibilities can become difficult when there are many tasks to remember.
+Managing daily activities, academic work, project tasks, and personal responsibilities can become difficult when there are many tasks to remember.
 
-Without a proper task management system, users may forget pending activities, lose track of deadlines or have difficulty identifying which tasks have already been completed.
+Without a proper task management system, users may forget pending activities, lose track of deadlines, or have difficulty identifying which tasks have already been completed.
 
 The objective of this project is to develop a simple Python-based To-Do List application that allows users to digitally organize and manage their tasks.
 
@@ -101,7 +101,7 @@ The specific objectives are:
 
 The **Add Task** feature allows the user to create a new task and store it in the system.
 
-The application can collect information such as the task title, description, priority and due date. Before saving the task, the program can validate the entered information to ensure that required details are available.
+The application can collect information such as the task title, description, priority, and due date. Before saving the task, the program can validate the entered information to ensure that required details are available.
 
 Once the information is accepted, the task is stored using the selected storage method.
 
@@ -115,7 +115,7 @@ The **View Tasks** feature displays the tasks currently stored in the applicatio
 
 The user can view the complete task list and understand which activities are pending and which have already been completed.
 
-The information can be displayed in an organized format containing details such as task ID, title, priority, due date and status.
+The information can be displayed in an organized format containing details such as task ID, title, priority, due date, and status.
 
 This operation represents the **Read** operation in CRUD.
 
@@ -137,7 +137,7 @@ This feature becomes particularly useful when the number of stored tasks increas
 
 The **Update Task** feature allows users to modify existing task information.
 
-For example, a user may need to change a task title, description, priority or due date.
+For example, a user may need to change a task title, description, priority, or due date.
 
 Instead of deleting the existing task and creating a new one, the application allows the existing record to be modified.
 
@@ -206,7 +206,7 @@ It demonstrates how Python file handling can be used to maintain application dat
 
 The SQLite implementation stores task information inside a local relational database.
 
-It uses SQL operations to create, retrieve, update and delete task records.
+It uses SQL operations to create, retrieve, update, and delete task records.
 
 ---
 
@@ -233,7 +233,7 @@ For example, the application can check whether a task title has been entered bef
 
 Python is the primary programming language used to develop the To-Do List application.
 
-Python provides the programming structures required for user input, task processing, conditional logic, loops, functions, file handling and database connectivity.
+Python provides the programming structures required for user input, task processing, conditional logic, loops, functions, file handling, and database connectivity.
 
 ---
 
@@ -268,7 +268,7 @@ The project combines several important Python programming concepts.
 
 ### Variables and Data Types
 
-Variables are used to store task information such as task ID, title, description, priority, due date and completion status.
+Variables are used to store task information such as task ID, title, description, priority, due date, and completion status.
 
 ### User Input
 
@@ -400,7 +400,7 @@ The actual operation performed depends on the option selected by the user.
 
 The application repeatedly returns to the main menu so that multiple tasks can be managed during the same execution.
 
-This flow demonstrates how **user input, decision-making, data processing, persistent storage and repetition** work together in a practical Python application.
+This flow demonstrates how **user input, decision-making, data processing, persistent storage, and repetition** work together in a practical Python application.
 
 <br>
 <br>
@@ -422,7 +422,7 @@ To-Do-List/
 
 This file contains the complete To-Do List implementation using **CSV file storage**.
 
-It handles task creation, task viewing, searching, updating, completion tracking and deletion using CSV file operations.
+It handles task creation, task viewing, searching, updating, completion tracking, and deletion using CSV file operations.
 
 This version demonstrates how Python can maintain persistent task information using a simple file-based approach.
 
@@ -434,7 +434,7 @@ This file contains the complete To-Do List implementation using an **SQLite data
 
 It manages task records using database operations and SQL queries.
 
-The program can insert new tasks, retrieve existing tasks, search records, update task information, change task status and delete records.
+The program can insert new tasks, retrieve existing tasks, search records, update task information, change task status, and delete records.
 
 This version provides practical experience with relational databases and CRUD operations.
 
@@ -452,7 +452,7 @@ It provides a visual introduction to the project and improves the overall presen
 
 This file contains the complete documentation of the To-Do List project.
 
-It explains the project overview, problem statement, objectives, features, technologies, programming concepts, working process, task flow, project structure, file descriptions, execution instructions, learning outcomes and future enhancements.
+It explains the project overview, problem statement, objectives, features, technologies, programming concepts, working process, task flow, project structure, file descriptions, execution instructions, learning outcomes, and future enhancements.
 
 <br>
 <br>
@@ -559,10 +559,10 @@ Enter task to search: Python
 
 🔍 Task Found
 
-Task   : Complete Python Project
+Task : Complete Python Project
 Priority: High
-Due Date : 10-10-2026
-Status   : Pending
+Due Date: 10-10-2026
+Status : Pending
 ```
 
 ---
