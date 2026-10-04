@@ -2,11 +2,11 @@
 
 ### A Python-Based Task Management Application
 
-The **To-Do List** is a Python-based mini project developed to help users organize, manage and track their daily tasks in a simple and structured way. The application provides an interactive command-line interface through which users can create tasks, view existing tasks, mark tasks as completed, update task information and delete tasks that are no longer required.
+The **To-Do List** is a Python-based mini project developed to help users organize, manage, and track their daily tasks in a simple and structured way. The application provides an interactive command-line interface through which users can create tasks, view existing tasks, mark tasks as completed, update task information, and delete tasks that are no longer required.
 
-Managing multiple tasks without a proper system can make it difficult to remember pending work, track completed activities and prioritize important tasks. This project provides a simple digital solution by allowing users to maintain their tasks in one centralized application.
+Managing multiple tasks without a proper system can make it difficult to remember pending work, track completed activities, and prioritize important tasks. This project provides a simple digital solution by allowing users to maintain their tasks in one centralized application.
 
-The project demonstrates how fundamental Python programming concepts can be combined to create a practical task management application. It makes use of **variables, functions, conditional statements, loops, user input, file handling, data validation and database operations** to provide a complete working system.
+The project demonstrates how fundamental Python programming concepts can be combined to create a practical task management application. It makes use of **variables, functions, conditional statements, loops, user input, file handling, data validation, and database operations** to provide a complete working system.
 
 The project contains two implementations using different data storage techniques. The **CSV version** stores task information in a CSV file, while the **SQLite version** stores tasks inside a local SQLite database. Both implementations provide similar task management functionality while demonstrating different approaches to persistent data storage.
 
@@ -25,23 +25,25 @@ This project was developed as part of my **Python Mini Projects** collection to 
 
 </div>
 
----
+<br>
+<br>
 
 ## 📌 Project Overview
 
 The To-Do List is a menu-driven task management application designed to help users maintain a digital list of activities that need to be completed.
 
-When the application starts, the user is presented with a menu containing different task management operations. The user can add a new task, view all available tasks, search for a particular task, update task information, mark a task as completed or delete an unwanted task.
+When the application starts, the user is presented with a menu containing different task management operations. The user can add a new task, view all available tasks, search for a particular task, update task information, mark a task as completed, or delete an unwanted task.
 
-Each task can contain important information such as a task title, description, priority, due date and completion status. The stored information allows the user to keep track of both pending and completed activities.
+Each task can contain important information such as a task title, description, priority, due date, and completion status. The stored information allows the user to keep track of both pending and completed activities.
 
-The application is designed around the basic **CRUD operations — Create, Read, Update and Delete**. In addition to CRUD functionality, the project introduces task completion tracking, allowing users to distinguish between tasks that are still pending and tasks that have already been completed.
+The application is designed around the basic **CRUD operations — Create, Read, Update, and Delete**. In addition to CRUD functionality, the project introduces task completion tracking, allowing users to distinguish between tasks that are still pending and tasks that have already been completed.
 
 The project provides two different implementations. The CSV version uses file handling to store task records, while the SQLite version uses a relational database and SQL operations.
 
 This makes the project useful not only as a basic task management application but also as a practical example of how Python applications can work with different types of persistent data storage.
 
----
+<br>
+<br>
 
 ## 💡 Problem Statement
 
@@ -65,7 +67,8 @@ The system should provide functionality for:
 
 The project focuses on providing a simple interface while demonstrating practical programming and data management concepts.
 
----
+<br>
+<br>
 
 ## 🎯 Objectives
 
@@ -89,7 +92,8 @@ The specific objectives are:
 - To improve logical thinking and problem-solving skills.
 - To gain practical experience in developing menu-driven applications.
 
----
+<br>
+<br>
 
 ## ✨ Features
 
@@ -163,7 +167,8 @@ The application identifies the selected task and removes it from the storage sys
 
 This operation represents the **Delete** operation in CRUD.
 
----
+<br>
+<br>
 
 ### ⭐ Task Priority
 
@@ -219,7 +224,8 @@ Input validation helps prevent incomplete or invalid task information from being
 
 For example, the application can check whether a task title has been entered before allowing the task to be saved.
 
----
+<br>
+<br>
 
 ## 🛠️ Technologies Used
 
@@ -253,7 +259,8 @@ The application uses the terminal or command prompt for user interaction.
 
 The command-line interface keeps the application simple and allows the project to focus on programming logic and data management.
 
----
+<br>
+<br>
 
 ## 🧠 Programming Concepts Used
 
@@ -269,7 +276,7 @@ The `input()` function is used to collect task information and menu choices from
 
 ### Conditional Statements
 
-`if`, `elif` and `else` statements are used to determine which operation should be performed.
+`if`, `elif`, and `else` statements are used to determine which operation should be performed.
 
 ### Loops
 
@@ -321,7 +328,8 @@ Validation helps ensure that important task information is entered correctly.
 
 Exception handling can be used to prevent the application from terminating unexpectedly when invalid input or unexpected situations occur.
 
----
+<br>
+<br>
 
 ## ⚙️ How the System Works
 
@@ -351,7 +359,8 @@ After completing an operation, the application returns to the main menu, allowin
 
 The program continues running until the user selects the **Exit** option.
 
----
+<br>
+<br>
 
 ## 🔄 Task Management Flow
 
@@ -393,7 +402,8 @@ The application repeatedly returns to the main menu so that multiple tasks can b
 
 This flow demonstrates how **user input, decision-making, data processing, persistent storage and repetition** work together in a practical Python application.
 
----
+<br>
+<br>
 
 ## 📂 Project Structure
 
@@ -444,7 +454,8 @@ This file contains the complete documentation of the To-Do List project.
 
 It explains the project overview, problem statement, objectives, features, technologies, programming concepts, working process, task flow, project structure, file descriptions, execution instructions, learning outcomes and future enhancements.
 
----
+<br>
+<br>
 
 ## ▶️ How to Run
 
@@ -492,7 +503,8 @@ python todo_list_sqlite.py
 
 The application will start and use an SQLite database for storing task information.
 
----
+<br>
+<br>
 
 ## 💻 Example Usage
 
@@ -598,9 +610,9 @@ The CSV version stores task records in a structured file.
 A simplified representation can be:
 
 ```text
-ID,Title,Description,Priority,Due Date,Status
-1,Complete Python Project,Finish README,High,10-10-2026,Pending
-2,Study DBMS,Prepare notes,Medium,12-10-2026,Completed
+ID, Title, Description, Priority, Due Date, Status
+1, Complete Python Project, Finish README, High,10-10-2026, Pending
+2, Study DBMS, Prepare notes, Medium,12-10-2026, Completed
 ```
 
 Each row represents one task, while the columns represent different task attributes.
@@ -609,11 +621,12 @@ When a task is added, a new row is created.
 
 When tasks are viewed or searched, the program reads the stored rows.
 
-When a task is updated or deleted, the existing records are processed and the modified data is written back to the file.
+When a task is updated or deleted, the existing records are processed, and the modified data is written back to the file.
 
 This approach provides a simple way to understand persistent data storage using files.
 
----
+<br>
+<br>
 
 ### 🗄️ SQLite-Based Storage
 
@@ -681,7 +694,8 @@ For example, an urgent academic submission can be marked as **High**, while a le
 
 Priority management can later be extended to provide automatic sorting or filtering of important tasks.
 
----
+<br>
+<br>
 
 ## 📚 Learning Outcomes
 
@@ -699,9 +713,10 @@ The SQLite implementation provided additional experience with relational databas
 
 Another important learning outcome was understanding task status management. By separating pending and completed tasks, the application demonstrates how a software system can track progress over time.
 
-Overall, this project strengthened my understanding of **Python programming, functions, loops, file handling, CSV processing, SQLite databases, SQL queries, CRUD operations, input validation and application design**.
+Overall, this project strengthened my understanding of **Python programming, functions, loops, file handling, CSV processing, SQLite databases, SQL queries, CRUD operations, input validation, and application design**.
 
----
+<br>
+<br>
 
 ## 🔮 Future Enhancements
 
@@ -739,26 +754,13 @@ This project was developed as part of my **Python Mini Projects** collection to 
 
 The To-Do List demonstrates how a common everyday problem can be converted into a functional software application using Python.
 
-The project does not only focus on creating and displaying tasks. It demonstrates the complete lifecycle of task information, beginning with task creation and continuing through storage, retrieval, searching, modification, completion tracking and deletion.
+The project not only focuses on creating and displaying tasks. It demonstrates the complete lifecycle of task information, beginning with task creation and continuing through storage, retrieval, searching, modification, completion tracking, and deletion.
 
 The two implementations also provide practical experience with different data storage approaches. The CSV version demonstrates simple file-based persistence, while the SQLite version introduces relational database concepts and SQL operations.
 
 The project is primarily intended for **learning and educational purposes** and provides a strong foundation for developing more advanced productivity applications.
 
----
 
-## ⭐ Support
 
-If you find this project useful or interesting, consider giving the repository a ⭐.
-
-Your support motivates me to continue learning, building and improving more Python projects.
-
----
-
-<div align="center">
-
-### 📝 Plan • Track • Complete
-
-*Made with ❤️ using Python*
 
 </div>
