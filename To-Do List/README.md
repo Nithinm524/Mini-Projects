@@ -12,7 +12,8 @@ The project contains two implementations using different data storage techniques
 
 This project was developed as part of my **Python Mini Projects** collection to strengthen programming fundamentals through practical implementation and to understand how a simple task management problem can be converted into a complete Python application.
 
----
+<br>
+<br>
 
 <div align="center">
 
