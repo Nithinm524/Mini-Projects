@@ -559,8 +559,8 @@ Enter task to search: Python
 
 🔍 Task Found
 
-Task     : Complete Python Project
-Priority : High
+Task   : Complete Python Project
+Priority: High
 Due Date : 10-10-2026
 Status   : Pending
 ```
@@ -674,7 +674,7 @@ Completed
 
 This simple status system allows users to distinguish between unfinished and completed activities.
 
-It also provides a foundation for future features such as progress statistics, completed-task reports and productivity tracking.
+It also provides a foundation for future features such as progress statistics, completed-task reports, and productivity tracking.
 
 ---
 
@@ -701,7 +701,7 @@ Priority management can later be extended to provide automatic sorting or filter
 
 Developing the To-Do List project provided practical experience in designing and implementing a complete task management application using Python.
 
-The project helped me understand how a real-world problem can be divided into smaller operations such as creating tasks, retrieving records, searching information, updating data, changing task status and deleting records.
+The project helped me understand how a real-world problem can be divided into smaller operations such as creating tasks, retrieving records, searching information, updating data, changing task status, and deleting records.
 
 It provided hands-on experience with **CRUD operations**, which are fundamental to many software applications that manage data.
 
@@ -746,13 +746,14 @@ Possible future enhancements include:
 
 These enhancements could transform the basic command-line application into a complete personal productivity and task management platform.
 
----
+<br>
+<br>
 
 ## 🎓 Project Purpose
 
-This project was developed as part of my **Python Mini Projects** collection to strengthen programming fundamentals through practical implementation.
+I developed this project as part of my **Python Mini Projects** collection to strengthen programming fundamentals through practical implementation.
 
-The To-Do List demonstrates how a common everyday problem can be converted into a functional software application using Python.
+The To-Do List demonstrates how to turn a common everyday problem into a functional software application using Python.
 
 The project not only focuses on creating and displaying tasks. It demonstrates the complete lifecycle of task information, beginning with task creation and continuing through storage, retrieval, searching, modification, completion tracking, and deletion.
 
