@@ -1,4 +1,9 @@
 # 📝 To-Do List
+<div align="center">
+
+<img  src="to-do-list.png" alt="To-Do List Python Mini Project" width="100%">
+
+</div>
 
 ### A Python-Based Task Management Application
 
@@ -12,14 +17,6 @@ The project contains two implementations using different data storage techniques
 
 This project was developed as part of my **Python Mini Projects** collection to strengthen programming fundamentals through practical implementation and to understand how a simple task management problem can be converted into a complete Python application.
 
-<br>
-<br>
-
-<div align="center">
-
-<img  src="to-do-list.png" alt="To-Do List Python Mini Project" width="100%">
-
-</div>
 
 <br>
 <br>
