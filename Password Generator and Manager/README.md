@@ -508,7 +508,6 @@ Password-Generator-Manager/
 │
 ├── password_generator_csv.py
 ├── password_generator_sqlite.py
-├── password-generator-manager.png
 └── README.md
 ```
 
@@ -538,14 +537,6 @@ This version provides practical experience with relational databases and CRUD op
 <br>
 <br>
 
-**`password-generator-manager.png`**
-
-This image is the visual banner used in the README file to represent the Password Generator and Manager project.
-
-It provides a visual introduction to the project and improves the overall presentation of the GitHub documentation.
-
-<br>
-<br>
 
 **`README.md`**
 
@@ -559,7 +550,7 @@ It explains the project overview, problem statement, objectives, features, techn
 ## ▶️ How to Run
 
 ### Step 1: Install Python
-
+---
 Make sure Python is installed on your computer.
 
 Check the installation using:
@@ -572,7 +563,7 @@ python --version
 <br>
 
 ### Step 2: Open the Project Folder
-
+---
 Open a terminal or command prompt and navigate to the project directory:
 
 ```bash
@@ -583,7 +574,7 @@ cd Password-Generator-Manager
 <br>
 
 ### Step 3: Run the CSV Version
-
+---
 Execute:
 
 ```bash
@@ -596,7 +587,7 @@ The application will start in the terminal and use CSV storage for maintaining c
 <br>
 
 ### Step 4: Run the SQLite Version
-
+---
 Execute:
 
 ```bash
