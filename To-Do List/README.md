@@ -1,9 +1,5 @@
 # 📝 To-Do List
-<div align="center">
 
-<img  src="to-do-list.png" alt="To-Do List Python Mini Project" width="100%">
-
-</div>
 
 ### A Python-Based Task Management Application
 
