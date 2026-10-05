@@ -14,7 +14,10 @@ This project was developed as part of my **Python Mini Projects** collection to 
 
 > ⚠️ **Educational Notice:** This project is intended for learning and demonstration purposes. It should not be considered a production-ready password manager or a replacement for professionally audited password-management software.
 
----
+
+<br>
+<br>
+
 
 <div align="center">
 
@@ -26,7 +29,10 @@ This project was developed as part of my **Python Mini Projects** collection to 
 
 </div>
 
----
+
+<br>
+<br>
+
 
 ## 📌 Project Overview
 
@@ -44,7 +50,10 @@ The project provides two different storage implementations. The CSV version demo
 
 The project therefore provides practical experience in both Python programming and basic data management while demonstrating how a simple password utility can be structured as a complete application.
 
----
+
+<br>
+<br>
+
 
 ## 💡 Problem Statement
 
@@ -70,7 +79,10 @@ The system should allow users to:
 
 The project focuses on demonstrating password generation and data management concepts in an educational environment.
 
----
+
+<br>
+<br>
+
 
 ## 🎯 Objectives
 
@@ -94,7 +106,10 @@ The specific objectives are:
 - To improve Python programming and problem-solving skills.
 - To understand how a practical password utility can be structured.
 
----
+
+<br>
+<br>
+
 
 ## ✨ Features
 
@@ -115,7 +130,10 @@ Special Characters
 
 The user can specify the required password length, allowing the program to generate passwords according to the selected requirement.
 
----
+
+<br>
+<br>
+
 
 ### 🎚️ Custom Password Length
 
@@ -131,7 +149,10 @@ The program then generates a password containing the requested number of charact
 
 A longer password can provide a larger search space than a short password, although password security also depends on other factors such as randomness and how the credential is stored.
 
----
+
+<br>
+<br>
+
 
 ### 🔤 Character Selection
 
@@ -146,7 +167,10 @@ These can include:
 
 Combining different character categories helps create passwords that are more complex than simple words or predictable patterns.
 
----
+
+<br>
+<br>
+
 
 ### ➕ Add Credential
 
@@ -164,7 +188,10 @@ The generated password can then be associated with the selected account and stor
 
 This represents the **Create** operation in CRUD.
 
----
+
+<br>
+<br>
+
 
 ### 👀 View Credentials
 
@@ -176,7 +203,10 @@ For a real password manager, sensitive passwords should not be displayed openly.
 
 This represents the **Read** operation in CRUD.
 
----
+
+<br>
+<br>
+
 
 ### 🔍 Search Credential
 
@@ -186,7 +216,10 @@ The user can enter a website or application name, and the program searches the s
 
 This feature becomes especially useful when the number of stored credentials increases.
 
----
+
+<br>
+<br>
+
 
 ### ✏️ Update Credential
 
@@ -196,7 +229,10 @@ For example, if the password for an account has been changed, the user can updat
 
 This represents the **Update** operation in CRUD.
 
----
+
+<br>
+<br>
+
 
 ### 🗑️ Delete Credential
 
@@ -206,7 +242,10 @@ The application identifies the selected account and removes its stored record.
 
 This represents the **Delete** operation in CRUD.
 
----
+
+<br>
+<br>
+
 
 ### 💾 CSV Storage
 
@@ -216,7 +255,10 @@ It demonstrates how Python file handling can be used to maintain application rec
 
 This implementation is useful for understanding simple persistent data storage.
 
----
+
+<br>
+<br>
+
 
 ### 🗄️ SQLite Storage
 
@@ -226,7 +268,10 @@ The application can use SQL operations to insert, retrieve, update and delete re
 
 This implementation provides practical experience with database-based data management.
 
----
+
+<br>
+<br>
+
 
 ### 🔄 Menu-Driven Interface
 
@@ -246,7 +291,10 @@ For example:
 
 The menu-driven design allows users to perform multiple operations during a single execution.
 
----
+
+<br>
+<br>
+
 
 ### ✅ Input Validation
 
@@ -256,7 +304,10 @@ For example, the program can check whether the password length is valid and whet
 
 Input validation reduces incorrect or incomplete records.
 
----
+
+<br>
+<br>
+
 
 ## 🛠️ Technologies Used
 
@@ -266,7 +317,10 @@ Python is the primary programming language used to develop the complete applicat
 
 It provides the required programming structures for password generation, user input, conditional logic, loops, functions, file handling and database operations.
 
----
+
+<br>
+<br>
+
 
 ### 🔐 Random Password Generation
 
@@ -274,7 +328,10 @@ Python's built-in randomization functionality can be used to select characters a
 
 The character pool can contain letters, numbers and special characters.
 
----
+
+<br>
+<br>
+
 
 ### 📄 CSV
 
@@ -282,7 +339,8 @@ CSV is used for the file-based credential management implementation.
 
 It allows account records to be stored in rows and columns and provides a simple method for maintaining persistent data.
 
----
+<br>
+<br>
 
 ### 🗄️ SQLite
 
@@ -290,7 +348,8 @@ SQLite is used for the database-based implementation.
 
 It provides a lightweight local relational database that can store credential records without requiring a separate database server.
 
----
+<br>
+<br>
 
 ### 💻 Command-Line Interface
 
@@ -298,7 +357,8 @@ The application uses the terminal or command prompt as its user interface.
 
 The command-line approach keeps the project simple while allowing the main focus to remain on Python logic and data management.
 
----
+<br>
+<br>
 
 ## 🧠 Programming Concepts Used
 
@@ -372,7 +432,8 @@ Validation helps prevent invalid or incomplete information from being stored.
 
 Exception handling can be used to prevent unexpected input or file/database errors from terminating the application.
 
----
+<br>
+<br>
 
 ## ⚙️ How the System Works
 
@@ -402,7 +463,8 @@ After every operation, the application can return to the main menu so that the u
 
 The program continues until the user selects **Exit**.
 
----
+<br>
+<br>
 
 ## 🔄 Password Management Flow
 
@@ -440,7 +502,8 @@ The actual operation depends on the option selected by the user.
 
 The application demonstrates how **password generation, user input, decision-making, data processing, storage and repeated operations** can work together in a single Python application.
 
----
+<br>
+<br>
 
 ## 📂 Project Structure
 
@@ -463,7 +526,8 @@ It handles password generation, adding credentials, viewing records, searching a
 
 This version demonstrates how Python can maintain credential information using a simple file-based storage approach.
 
----
+<br>
+<br>
 
 **`password_generator_sqlite.py`**
 
@@ -475,7 +539,8 @@ The program can insert new credentials, retrieve records, search accounts, updat
 
 This version provides practical experience with relational databases and CRUD operations.
 
----
+<br>
+<br>
 
 **`password-generator-manager.png`**
 
@@ -483,7 +548,8 @@ This image is the visual banner used in the README file to represent the Passwor
 
 It provides a visual introduction to the project and improves the overall presentation of the GitHub documentation.
 
----
+<br>
+<br>
 
 **`README.md`**
 
@@ -491,7 +557,8 @@ This file contains the complete documentation of the Password Generator and Mana
 
 It explains the project overview, problem statement, objectives, features, technologies, programming concepts, working process, application flow, project structure, file descriptions, execution instructions, learning outcomes and future enhancements.
 
----
+<br>
+<br>
 
 ## ▶️ How to Run
 
@@ -505,7 +572,8 @@ Check the installation using:
 python --version
 ```
 
----
+<br>
+<br>
 
 ### Step 2: Open the Project Folder
 
@@ -515,7 +583,8 @@ Open a terminal or command prompt and navigate to the project directory:
 cd Password-Generator-Manager
 ```
 
----
+<br>
+<br>
 
 ### Step 3: Run the CSV Version
 
@@ -527,7 +596,8 @@ python password_generator_csv.py
 
 The application will start in the terminal and use CSV storage for maintaining credential records.
 
----
+<br>
+<br>
 
 ### Step 4: Run the SQLite Version
 
@@ -539,7 +609,8 @@ python password_generator_sqlite.py
 
 The application will start and use an SQLite database for storing credential information.
 
----
+<br>
+<br>
 
 ## 💻 Example Usage
 
@@ -570,7 +641,8 @@ X7@pL9#qT2$mN8!k
 
 The generated password contains a combination of different character types.
 
----
+<br>
+<br>
 
 ### Adding a Credential
 
@@ -586,7 +658,8 @@ Enter Password: X7@pL9#qT2$mN8!k
 
 The credential is then stored using the selected storage method.
 
----
+<br>
+<br>
 
 ### Searching for a Credential
 
@@ -603,7 +676,8 @@ Username : user@example.com
 
 For security reasons, a production password manager should avoid displaying stored passwords openly.
 
----
+<br>
+<br>
 
 ### Updating a Credential
 
@@ -617,7 +691,9 @@ Enter New Password: R8#kP2!mX7@qL5$n
 ✅ Credential updated successfully!
 ```
 
----
+<br>
+<br>
+
 
 ### Deleting a Credential
 
@@ -631,7 +707,8 @@ Enter Website to delete: example.com
 
 The selected credential is removed from the storage system.
 
----
+<br>
+<br>
 
 ## 🗃️ Data Management
 
@@ -657,7 +734,8 @@ When records are viewed or searched, the program reads the stored information.
 
 For updates or deletions, the existing records are processed and the modified information is saved again.
 
----
+<br>
+<br>
 
 ### 🗄️ SQLite-Based Storage
 
@@ -683,9 +761,11 @@ UPDATE → Modify Credential
 DELETE → Remove Credential
 ```
 
-This implementation provides practical experience with database-driven applications.
+This implementation provides practical experience with a database-driven application.
 
----
+
+<br>
+<br>
 
 ## 🔐 Security Considerations
 
@@ -708,7 +788,8 @@ A production-level application should consider stronger security mechanisms such
 
 The project should therefore be treated as a **learning implementation**, not as a secure replacement for professional password-management software.
 
----
+<br>
+<br>
 
 ## 📚 Learning Outcomes
 
@@ -728,7 +809,8 @@ Most importantly, the project helped me understand that applications dealing wit
 
 Overall, this project strengthened my knowledge of **Python programming, randomization, string processing, file handling, CSV processing, SQLite databases, SQL queries, CRUD operations and basic security concepts**.
 
----
+<br>
+<br>
 
 ## 🔮 Future Enhancements
 
@@ -757,7 +839,8 @@ Possible future enhancements include:
 
 These enhancements could transform the basic educational application into a more sophisticated credential-management system.
 
----
+<br>
+<br>
 
 ## 🎓 Project Purpose
 
@@ -771,20 +854,6 @@ The two implementations also provide an opportunity to compare file-based and da
 
 The project is primarily intended for **learning and educational purposes**. It provides a foundation for understanding how applications that handle sensitive information can be designed and why additional security mechanisms are necessary when developing production-ready systems.
 
----
 
-## ⭐ Support
-
-If you find this project useful or interesting, consider giving the repository a ⭐.
-
-Your support motivates me to continue learning, building and improving more Python projects.
-
----
-
-<div align="center">
-
-### 🔐 Generate • Manage • Secure
-
-*Made with ❤️ using Python*
 
 </div>
