@@ -308,6 +308,7 @@ Input validation reduces incorrect or incomplete records.
 
 
 ## 🛠️ Technologies Used
+<br>
 
 ### 🐍 Python
 ---
