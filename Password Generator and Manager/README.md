@@ -626,6 +626,9 @@ When the program starts, a menu similar to the following can be displayed:
 Enter your choice: 1
 ```
 
+<br>
+<br>
+
 ### Generating a Password
 ---
 ```text
