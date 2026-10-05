@@ -714,7 +714,7 @@ The selected credential is removed from the storage system.
 The project demonstrates two different approaches to storing credential information.
 
 ### 📄 CSV-Based Storage
-
+---
 The CSV version stores account records in a structured file.
 
 A simplified representation can be:
@@ -737,7 +737,7 @@ For updates or deletions, the existing records are processed, and the modified i
 <br>
 
 ### 🗄️ SQLite-Based Storage
-
+---
 The SQLite version stores credential information in a relational database table.
 
 A simplified structure can be represented as:
