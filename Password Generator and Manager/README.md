@@ -1,5 +1,12 @@
 # 🔐 Password Generator and Manager
 
+
+<div align="center">
+
+<img  src="password-generator-manager.png" alt="Password Generator and Manager Python Mini Project" width="100%">
+
+</div>
+
 ### A Python-Based Password Generation and Secure Credential Management Application
 
 The **Password Generator and Manager** is a Python-based mini project developed to generate strong passwords and organize saved credentials in a simple and structured manner. The application combines password generation with basic password management functionality, allowing users to create random passwords, store account information, search saved credentials, update existing records, and delete credentials that are no longer required.
@@ -19,11 +26,6 @@ This project was developed as part of my **Python Mini Projects** collection to 
 <br>
 
 
-<div align="center">
-
-<img  src="password-generator-manager.png" alt="Password Generator and Manager Python Mini Project" width="100%">
-
-</div>
 
 
 <br>
