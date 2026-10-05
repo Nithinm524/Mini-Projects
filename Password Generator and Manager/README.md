@@ -2,11 +2,11 @@
 
 ### A Python-Based Password Generation and Secure Credential Management Application
 
-The **Password Generator and Manager** is a Python-based mini project developed to generate strong passwords and organize saved credentials in a simple and structured manner. The application combines password generation with basic password management functionality, allowing users to create random passwords, store account information, search saved credentials, update existing records and delete credentials that are no longer required.
+The **Password Generator and Manager** is a Python-based mini project developed to generate strong passwords and organize saved credentials in a simple and structured manner. The application combines password generation with basic password management functionality, allowing users to create random passwords, store account information, search saved credentials, update existing records, and delete credentials that are no longer required.
 
 Managing multiple online accounts often requires users to remember different passwords for different services. Reusing the same password across multiple accounts can create security risks, while remembering many different passwords can become difficult. This project provides a simple educational solution by generating unique passwords and allowing users to maintain their account credentials in one application.
 
-The project demonstrates how Python programming concepts can be combined to develop a practical credential management application. It makes use of **random password generation, strings, user input, functions, conditional statements, loops, file handling, data validation and database operations**.
+The project demonstrates how Python programming concepts can be combined to develop a practical credential management application. It makes use of **random password generation, strings, user input, functions, conditional statements, loops, file handling, data validation, and database operations**.
 
 The project contains two implementations using different storage techniques. The **CSV version** stores credential information in a CSV file, while the **SQLite version** stores records inside a local SQLite database. Both versions provide similar password management functionality while demonstrating different approaches to persistent data storage.
 
@@ -21,11 +21,7 @@ This project was developed as part of my **Python Mini Projects** collection to 
 
 <div align="center">
 
-<img 
-  src="password-generator-manager.png"
-  alt="Password Generator and Manager Python Mini Project"
-  width="100%"
->
+<img  src="password-generator-manager.png" alt="Password Generator and Manager Python Mini Project" width="100%">
 
 </div>
 
@@ -38,13 +34,13 @@ This project was developed as part of my **Python Mini Projects** collection to 
 
 The Password Generator and Manager is a menu-driven Python application designed to help users generate strong random passwords and manage stored account credentials.
 
-When the application starts, the user is presented with a menu containing different operations. The user can generate a new password, add a credential, view saved credentials, search for a specific account, update existing information or delete an unwanted record.
+When the application starts, the user is presented with a menu containing different operations. The user can generate a new password, add a credential, view saved credentials, search for a specific account, update existing information, or delete an unwanted record.
 
 The password generator creates passwords using a combination of characters such as uppercase letters, lowercase letters, numbers and special characters. The user can specify the required password length, allowing the application to generate passwords suitable for different requirements.
 
 After generating a password, the user can associate it with an account or website and store the related information in the application. The stored information can later be searched or updated when required.
 
-The project follows the basic **CRUD concept — Create, Read, Update and Delete**. This makes the application similar to many real-world data management systems where information needs to be continuously created, retrieved, modified and removed.
+The project follows the basic **CRUD concept — Create, Read, Update, and Delete**. This makes the application similar to many real-world data management systems where information needs to be continuously created, retrieved, modified, and removed.
 
 The project provides two different storage implementations. The CSV version demonstrates file-based credential storage, while the SQLite version demonstrates database-based credential storage using SQL operations.
 
@@ -57,7 +53,7 @@ The project therefore provides practical experience in both Python programming a
 
 ## 💡 Problem Statement
 
-Users often maintain multiple accounts across websites, applications and online services. Each account may require a different password, making password management difficult.
+Users often maintain multiple accounts across websites, applications, and online services. Each account may require a different password, making password management difficult.
 
 Using simple or repeated passwords can reduce account security, while creating complex passwords manually can be inconvenient and time-consuming.
 
@@ -264,7 +260,7 @@ This implementation is useful for understanding simple persistent data storage.
 
 The SQLite implementation stores credential records inside a local SQLite database.
 
-The application can use SQL operations to insert, retrieve, update and delete records.
+The application can use SQL operations to insert, retrieve, update, and delete records.
 
 This implementation provides practical experience with database-based data management.
 
@@ -315,7 +311,7 @@ Input validation reduces incorrect or incomplete records.
 
 Python is the primary programming language used to develop the complete application.
 
-It provides the required programming structures for password generation, user input, conditional logic, loops, functions, file handling and database operations.
+It provides the required programming structures for password generation, user input, conditional logic, loops, functions, file handling, and database operations.
 
 
 <br>
@@ -326,7 +322,7 @@ It provides the required programming structures for password generation, user in
 
 Python's built-in randomization functionality can be used to select characters and construct generated passwords.
 
-The character pool can contain letters, numbers and special characters.
+The character pool can contain letters, numbers, and special characters.
 
 
 <br>
@@ -366,7 +362,7 @@ This project combines several important Python concepts into one practical appli
 
 ### Variables and Data Types
 
-Variables are used to store values such as usernames, website names, passwords, password lengths and menu choices.
+Variables are used to store values such as usernames, website names, passwords, password lengths, and menu choices.
 
 ### User Input
 
@@ -374,7 +370,7 @@ The `input()` function is used to collect information from the user.
 
 ### Conditional Statements
 
-`if`, `elif` and `else` statements control which operation is executed based on the user's selection.
+`if`, `elif`, and `else` statements control which operation is executed based on the user's selection.
 
 ### Loops
 
@@ -391,7 +387,7 @@ The application can be divided into functions such as:
 - Update Credential
 - Delete Credential
 
-Functions improve the organization and maintainability of the program.
+These functions improve the organization and maintainability of the program.
 
 ### String Operations
 
@@ -500,7 +496,7 @@ Exit
 
 The actual operation depends on the option selected by the user.
 
-The application demonstrates how **password generation, user input, decision-making, data processing, storage and repeated operations** can work together in a single Python application.
+The application demonstrates how **password generation, user input, decision-making, data processing, storage, and repeated operations** can work together in a single Python application.
 
 <br>
 <br>
@@ -631,7 +627,7 @@ Enter your choice: 1
 ```
 
 ### Generating a Password
-
+---
 ```text
 Enter password length: 16
 
@@ -645,7 +641,7 @@ The generated password contains a combination of different character types.
 <br>
 
 ### Adding a Credential
-
+---
 ```text
 Enter your choice: 2
 
@@ -662,7 +658,7 @@ The credential is then stored using the selected storage method.
 <br>
 
 ### Searching for a Credential
-
+---
 ```text
 Enter your choice: 4
 
@@ -670,8 +666,8 @@ Enter Website to search: example.com
 
 🔍 Credential Found
 
-Website  : example.com
-Username : user@example.com
+Website: example.com
+Username: user@example.com
 ```
 
 For security reasons, a production password manager should avoid displaying stored passwords openly.
@@ -680,7 +676,7 @@ For security reasons, a production password manager should avoid displaying stor
 <br>
 
 ### Updating a Credential
-
+---
 ```text
 Enter your choice: 5
 
@@ -696,7 +692,7 @@ Enter New Password: R8#kP2!mX7@qL5$n
 
 
 ### Deleting a Credential
-
+---
 ```text
 Enter your choice: 6
 
@@ -721,7 +717,7 @@ The CSV version stores account records in a structured file.
 A simplified representation can be:
 
 ```text
-Website,Username,Password
+Website, Username, Password
 example.com,user@example.com,X7@pL9#qT2$mN8!k
 github.com,developer@example.com,R8#kP2!mX7@qL5$n
 ```
@@ -732,7 +728,7 @@ When a new credential is added, a new record is stored.
 
 When records are viewed or searched, the program reads the stored information.
 
-For updates or deletions, the existing records are processed and the modified information is saved again.
+For updates or deletions, the existing records are processed, and the modified information is saved again.
 
 <br>
 <br>
@@ -797,17 +793,17 @@ Developing the Password Generator and Manager provided practical experience in b
 
 The project helped me understand how password generation can be implemented using character sets and random selection. It also demonstrated how user-defined password length can be used to control the generated output.
 
-The project provided practical experience with **CRUD operations** by allowing credentials to be created, retrieved, searched, updated and deleted.
+The project provided practical experience with **CRUD operations** by allowing credentials to be created, retrieved, searched, updated, and deleted.
 
 The CSV implementation helped me understand file-based data persistence and how Python applications can maintain structured information using files.
 
 The SQLite implementation provided hands-on experience with relational databases and SQL operations. It demonstrated how the same application concept can be implemented using a structured database instead of a simple file.
 
-The project also increased my understanding of input validation, functions, loops, conditional statements and exception handling.
+The project also increased my understanding of input validation, functions, loops, conditional statements, and exception handling.
 
 Most importantly, the project helped me understand that applications dealing with sensitive information require additional security considerations beyond basic functionality.
 
-Overall, this project strengthened my knowledge of **Python programming, randomization, string processing, file handling, CSV processing, SQLite databases, SQL queries, CRUD operations and basic security concepts**.
+Overall, this project strengthened my knowledge of **Python programming, randomization, string processing, file handling, CSV processing, SQLite databases, SQL queries, CRUD operations, and basic security concepts**.
 
 <br>
 <br>
@@ -844,15 +840,15 @@ These enhancements could transform the basic educational application into a more
 
 ## 🎓 Project Purpose
 
-This project was developed as part of my **Python Mini Projects** collection to strengthen programming fundamentals through practical implementation.
+I developed this project as part of my **Python Mini Projects** collection to strengthen my programming fundamentals through practical implementation.
 
 The Password Generator and Manager demonstrates how a common problem—creating and organizing passwords—can be converted into a functional Python application.
 
-The project combines password generation, user interaction, data validation, file handling, database operations and CRUD functionality into a single application.
+The project combines password generation, user interaction, data validation, file handling, database operations, and CRUD functionality into a single application.
 
 The two implementations also provide an opportunity to compare file-based and database-based data storage.
 
-The project is primarily intended for **learning and educational purposes**. It provides a foundation for understanding how applications that handle sensitive information can be designed and why additional security mechanisms are necessary when developing production-ready systems.
+The project is primarily intended for **learning and educational purposes**. It provides a foundation for understanding how to design applications that handle sensitive information and why additional security mechanisms are necessary when developing production-ready systems.
 
 
 
