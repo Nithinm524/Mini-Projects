@@ -25,10 +25,6 @@ This project was developed as part of my **Python Mini Projects** collection to 
 > ⚠️ **Educational Notice:** This project is intended for learning and demonstration purposes. It should not be considered a production-ready password manager or a replacement for professionally audited password-management software.
 
 
-<br>
-<br>
-
-
 
 
 <br>
