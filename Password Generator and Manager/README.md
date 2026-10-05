@@ -360,10 +360,9 @@ The command-line approach keeps the project simple while allowing the main focus
 <br>
 
 ## 🧠 Programming Concepts Used
-<br>
-<br>
-
 This project combines several important Python concepts into one practical application.
+<br>
+<br>
 
 
 ### Variables and Data Types
