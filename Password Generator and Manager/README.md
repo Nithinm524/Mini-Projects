@@ -712,6 +712,9 @@ The selected credential is removed from the storage system.
 ## 🗃️ Data Management
 
 The project demonstrates two different approaches to storing credential information.
+<br>
+<br>
+
 
 ### 📄 CSV-Based Storage
 ---
