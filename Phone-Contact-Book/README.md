@@ -1,5 +1,10 @@
 # 📱 Phone Contact Book
 
+<div align="center">
+
+<img src="phone-contact-book.png" alt="Phone Contact Book Python Mini Project" width="100%">
+
+</div>
 
 
 <br>
