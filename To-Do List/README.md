@@ -1,6 +1,10 @@
 # 📝 To-Do List
 
+<div align=center>
 
+<img  src=to-do-list.png alt=To-Do List Python Mini Project width=100%>
+
+</div>
 ### A Python-Based Task Management Application
 
 The **To-Do List** is a Python-based mini project developed to help users organize, manage, and track their daily tasks in a simple and structured way. The application provides an interactive command-line interface through which users can create tasks, view existing tasks, mark tasks as completed, update task information, and delete tasks that are no longer required.
