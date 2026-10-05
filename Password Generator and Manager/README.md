@@ -549,6 +549,8 @@ It explains the project overview, problem statement, objectives, features, techn
 
 ## ▶️ How to Run
 
+<br>
+<br>
 ### Step 1: Install Python
 ---
 Make sure Python is installed on your computer.
