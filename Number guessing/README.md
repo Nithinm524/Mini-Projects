@@ -1,4 +1,9 @@
 # 🎯 Number Guessing Game
+<div align="center">
+
+<img src="number-guessing.png" alt="Number Guessing Python Mini Project" width="100%" >
+
+</div>
 
 
 <br>
