@@ -115,7 +115,7 @@ The specific objectives are:
 ## ✨ Features
 
 ### 🔑 Password Generation
-
+---
 The main feature of the application is its ability to generate random passwords automatically.
 
 Instead of requiring the user to manually create a password, the program can generate a combination of different character types.
@@ -137,7 +137,7 @@ The user can specify the required password length, allowing the program to gener
 
 
 ### 🎚️ Custom Password Length
-
+---
 The application allows users to specify how many characters should be included in the generated password.
 
 For example:
@@ -156,7 +156,7 @@ A longer password can provide a larger search space than a short password, altho
 
 
 ### 🔤 Character Selection
-
+---
 The password generator can use different categories of characters.
 
 These can include:
@@ -174,7 +174,7 @@ Combining different character categories helps create passwords that are more co
 
 
 ### ➕ Add Credential
-
+---
 The **Add Credential** feature allows users to create a new credential record.
 
 The application can collect information such as:
@@ -195,7 +195,7 @@ This represents the **Create** operation in CRUD.
 
 
 ### 👀 View Credentials
-
+---
 The **View Credentials** feature displays the credential records stored in the application.
 
 The application retrieves the available records and presents the relevant account information in an organized format.
@@ -210,7 +210,7 @@ This represents the **Read** operation in CRUD.
 
 
 ### 🔍 Search Credential
-
+---
 The **Search Credential** feature allows users to find a particular account without manually checking every stored record.
 
 The user can enter a website or application name, and the program searches the stored records for matching information.
@@ -223,7 +223,7 @@ This feature becomes especially useful when the number of stored credentials inc
 
 
 ### ✏️ Update Credential
-
+---
 The **Update Credential** feature allows users to modify an existing credential.
 
 For example, if the password for an account has been changed, the user can update the stored password instead of creating a new record.
@@ -236,7 +236,7 @@ This represents the **Update** operation in CRUD.
 
 
 ### 🗑️ Delete Credential
-
+---
 The **Delete Credential** feature allows users to remove a credential record that is no longer required.
 
 The application identifies the selected account and removes its stored record.
@@ -249,7 +249,7 @@ This represents the **Delete** operation in CRUD.
 
 
 ### 💾 CSV Storage
-
+---
 The CSV implementation stores credential information in a structured CSV file.
 
 It demonstrates how Python file handling can be used to maintain application records without requiring a database.
@@ -262,7 +262,7 @@ This implementation is useful for understanding simple persistent data storage.
 
 
 ### 🗄️ SQLite Storage
-
+---
 The SQLite implementation stores credential records inside a local SQLite database.
 
 The application can use SQL operations to insert, retrieve, update, and delete records.
@@ -275,7 +275,7 @@ This implementation provides practical experience with database-based data manag
 
 
 ### 🔄 Menu-Driven Interface
-
+---
 The application provides a simple menu through which users can select the required operation.
 
 For example:
@@ -298,7 +298,7 @@ The menu-driven design allows users to perform multiple operations during a sing
 
 
 ### ✅ Input Validation
-
+---
 The application can validate important inputs before processing them.
 
 For example, the program can check whether the password length is valid and whether required credential fields have been entered.
@@ -311,9 +311,12 @@ Input validation reduces incorrect or incomplete records.
 
 
 ## 🛠️ Technologies Used
+---
+<br>
+<br>
 
 ### 🐍 Python
-
+---
 Python is the primary programming language used to develop the complete application.
 
 It provides the required programming structures for password generation, user input, conditional logic, loops, functions, file handling, and database operations.
@@ -324,7 +327,7 @@ It provides the required programming structures for password generation, user in
 
 
 ### 🔐 Random Password Generation
-
+---
 Python's built-in randomization functionality can be used to select characters and construct generated passwords.
 
 The character pool can contain letters, numbers, and special characters.
@@ -335,7 +338,7 @@ The character pool can contain letters, numbers, and special characters.
 
 
 ### 📄 CSV
-
+---
 CSV is used for the file-based credential management implementation.
 
 It allows account records to be stored in rows and columns and provides a simple method for maintaining persistent data.
@@ -344,7 +347,7 @@ It allows account records to be stored in rows and columns and provides a simple
 <br>
 
 ### 🗄️ SQLite
-
+---
 SQLite is used for the database-based implementation.
 
 It provides a lightweight local relational database that can store credential records without requiring a separate database server.
@@ -353,7 +356,7 @@ It provides a lightweight local relational database that can store credential re
 <br>
 
 ### 💻 Command-Line Interface
-
+---
 The application uses the terminal or command prompt as its user interface.
 
 The command-line approach keeps the project simple while allowing the main focus to remain on Python logic and data management.
@@ -362,27 +365,29 @@ The command-line approach keeps the project simple while allowing the main focus
 <br>
 
 ## 🧠 Programming Concepts Used
-
+---
 This project combines several important Python concepts into one practical application.
+<br>
+<br>
 
 ### Variables and Data Types
-
+---
 Variables are used to store values such as usernames, website names, passwords, password lengths, and menu choices.
 
 ### User Input
-
+---
 The `input()` function is used to collect information from the user.
 
 ### Conditional Statements
-
+---
 `if`, `elif`, and `else` statements control which operation is executed based on the user's selection.
 
 ### Loops
-
+---
 Loops allow the menu to remain active and enable users to perform multiple operations without restarting the application.
 
 ### Functions
-
+---
 The application can be divided into functions such as:
 
 - Generate Password
@@ -395,27 +400,27 @@ The application can be divided into functions such as:
 These functions improve the organization and maintainability of the program.
 
 ### String Operations
-
+---
 String operations are used to construct passwords and process account information.
 
 ### Randomization
-
+---
 Random character selection is used to create generated passwords.
 
 ### File Handling
-
+---
 The CSV version uses file operations to read and write credential information.
 
 ### CSV Processing
-
+---
 Python's CSV functionality is used to manage structured credential records.
 
 ### SQLite Operations
-
+---
 The SQLite version demonstrates database connectivity and SQL queries.
 
 ### CRUD Operations
-
+---
 The application implements:
 
 ```text
@@ -426,18 +431,18 @@ Delete → Remove Credential
 ```
 
 ### Input Validation
-
+---
 Validation helps prevent invalid or incomplete information from being stored.
 
 ### Exception Handling
-
+---
 Exception handling can be used to prevent unexpected input or file/database errors from terminating the application.
 
 <br>
 <br>
 
 ## ⚙️ How the System Works
-
+---
 When the application starts, the required storage system is initialized.
 
 For the CSV version, the program checks whether the required CSV file exists and prepares it for storing credential records.
@@ -468,7 +473,7 @@ The program continues until the user selects **Exit**.
 <br>
 
 ## 🔄 Password Management Flow
-
+---
 The overall application flow can be summarized as follows:
 
 ```text
