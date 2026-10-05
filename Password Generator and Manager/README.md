@@ -109,8 +109,6 @@ The specific objectives are:
 
 
 ## ✨ Features
-
-<br>
 <br>
 
 ### 🔑 Password Generation
@@ -310,8 +308,6 @@ Input validation reduces incorrect or incomplete records.
 
 
 ## 🛠️ Technologies Used
----
-
 
 ### 🐍 Python
 ---
@@ -363,7 +359,6 @@ The command-line approach keeps the project simple while allowing the main focus
 <br>
 
 ## 🧠 Programming Concepts Used
----
 This project combines several important Python concepts into one practical application.
 
 
