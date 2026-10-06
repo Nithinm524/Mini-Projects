@@ -7,6 +7,7 @@
 </div>
 
 ### A Python-Based Interactive Quiz and Leaderboard System
+---
 
 The **Quiz Application** is a Python-based mini project developed to provide an interactive question-and-answer experience through a simple command-line interface. The application presents a set of multiple-choice questions to the user, accepts answers, evaluates them immediately, and calculates the final score after all questions have been attempted.
 
@@ -22,7 +23,9 @@ This project was developed as part of my **Python Mini Projects** collection to 
 
 
 
----
+<br>
+<br>
+
 
 ## 📌 Project Overview
 
@@ -54,7 +57,9 @@ The score is then stored permanently using either CSV or SQLite storage.
 
 The user can subsequently select **View Leaderboard** from the main menu to see previously recorded attempts arranged according to score.
 
----
+<br>
+<br>
+
 
 ## 💡 Problem Statement
 
@@ -80,7 +85,9 @@ The system should:
 
 The project demonstrates how a simple problem can be converted into a complete interactive application using Python.
 
----
+<br>
+<br>
+
 
 ## 🎯 Objectives
 
@@ -104,7 +111,9 @@ The specific objectives are:
 - To implement a menu-driven application.
 - To improve logical thinking and problem-solving skills.
 
----
+<br>
+<br>
+
 
 ## ✨ Features
 
@@ -260,7 +269,7 @@ quiz_scores.csv
 The file contains:
 
 ```text
-Player,Score,Total
+Player, Score, Total
 ```
 
 Each completed quiz adds a new record to the file.
@@ -318,7 +327,8 @@ Thank You!
 
 and stops execution.
 
----
+<br>
+<br>
 
 ## 🛠️ Technologies Used
 
@@ -360,7 +370,9 @@ The application uses the terminal or command prompt for all user interaction.
 
 The CLI displays questions, options, feedback, scores and leaderboard information.
 
----
+<br>
+<br>
+
 
 ## 🧠 Programming Concepts Used
 
@@ -425,7 +437,7 @@ A `while` loop is used to continuously display the main menu until the user sele
 
 ### Conditional Statements
 
-`if`, `elif` and `else` statements are used for:
+`if`, `elif`, and `else` statements are used for:
 
 - Checking the menu choice.
 - Validating the player name.
@@ -507,7 +519,8 @@ rows.sort(key=lambda r: int(r[1]), reverse=True)
 
 The highest score therefore appears first.
 
----
+<br>
+<br>
 
 ## ⚙️ How the Quiz Works
 
@@ -547,7 +560,8 @@ The user can return to the main menu and view the leaderboard.
 
 The application continues running until the user chooses Exit.
 
----
+<br>
+<br>
 
 ## 🔄 Quiz Flow
 
@@ -593,7 +607,8 @@ Exit
 
 The application uses repetition to process all questions and decision-making to determine whether each selected answer is correct.
 
----
+<br>
+<br>
 
 ## 📂 Project Structure
 
@@ -634,7 +649,8 @@ This file contains the complete documentation for the Quiz Application.
 
 It explains the project overview, problem statement, objectives, features, technologies, programming concepts, working process, quiz flow, project structure, file descriptions, execution instructions, learning outcomes and future enhancements.
 
----
+<br>
+<br>
 
 ## ▶️ How to Run
 
@@ -696,7 +712,9 @@ to store quiz results.
 
 No external SQLite installation is required because Python provides the `sqlite3` module.
 
----
+<br>
+<br>
+
 
 ## 💻 Example Quiz
 
@@ -735,7 +753,9 @@ Correct!
 
 The application continues with the remaining questions.
 
----
+<br>
+<br>
+
 
 ## 📊 Example Final Result
 
@@ -747,7 +767,9 @@ Quiz Over! Nithin, you scored 4/5
 
 The result is then stored permanently.
 
----
+<br>
+<br>
+
 
 ## 🏆 Example Leaderboard
 
@@ -772,7 +794,9 @@ ORDER BY score DESC, id ASC
 
 This means higher scores are displayed first, while earlier attempts are preferred when scores are equal.
 
----
+<br>
+<br>
+
 
 ## 🗃️ Data Storage
 
@@ -789,13 +813,13 @@ quiz_scores.csv
 The file begins with:
 
 ```text
-Player,Score,Total
+Player, Score, Total
 ```
 
 After players complete quizzes, records are added:
 
 ```text
-Player,Score,Total
+Player, Score, Total
 Nithin,5,5
 Rahul,4,5
 Priya,3,5
@@ -842,7 +866,8 @@ ID | Player | Score | Total
 
 The database implementation demonstrates how quiz results can be stored and retrieved using SQL.
 
----
+<br>
+<br>
 
 ## 📚 Current Quiz Questions
 
@@ -900,7 +925,8 @@ Correct answer:
 
 The questions are currently stored directly inside the Python programs using the `QUESTIONS` list.
 
----
+<br>
+<br>
 
 ## 📚 Learning Outcomes
 
@@ -922,7 +948,8 @@ The leaderboard feature further demonstrated how stored data can be retrieved, s
 
 Overall, this project strengthened my understanding of **Python programming, lists, dictionaries, functions, loops, conditional statements, input validation, file handling, CSV processing, SQLite databases, SQL queries, sorting and menu-driven application design**.
 
----
+<br>
+<br>
 
 ## 🔮 Future Enhancements
 
@@ -952,7 +979,8 @@ Possible enhancements include:
 
 These improvements could transform the basic command-line quiz into a complete educational quiz platform.
 
----
+<br>
+<br>
 
 ## 🎓 Project Purpose
 
@@ -966,20 +994,5 @@ The two implementations also provide practical experience with both **file-based
 
 The project is primarily intended for **learning and educational purposes** and provides a foundation for developing more advanced quiz, examination and assessment systems.
 
----
-
-## ⭐ Support
-
-If you find this project useful or interesting, consider giving the repository a ⭐.
-
-Your support motivates me to continue learning, building and improving more Python projects.
-
----
-
-<div align="center">
-
-### 🧠 Question • Answer • Learn
-
-*Made with ❤️ using Python*
 
 </div>
