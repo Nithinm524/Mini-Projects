@@ -58,6 +58,7 @@ The projects in this repository cover different programming concepts and applica
 
 - 🐛 **Debugging & Improvement**  
   Finding errors, testing different situations, and improving programs through continuous practice.
+  
   <br>
   <br>
 
@@ -65,13 +66,14 @@ The projects in this repository cover different programming concepts and applica
 ---
 The main purpose of this repository is to maintain a structured record of my practical programming experience. Each project represents a step in my learning process and allows me to apply concepts that I have studied in a practical environment.
 
-These projects also help me understand the development process, from identifying a problem and planning a solution to implementing the program, testing its functionality and organizing the source code.
+These projects also help me understand the development process, from identifying a problem and planning a solution to implementing the program, testing its functionality, and organizing the source code.
+
 <br>
 <br>
 
 ### 🚀 Future Direction
 ---
-This repository will continue to grow as my technical skills develop. Future projects may include **advanced Python applications, database-driven systems, AI-based applications, automation tools, web applications and larger software projects**.
+This repository will continue to grow as my technical skills develop. Future projects may include **advanced Python applications, database-driven systems, AI-based applications, automation tools, web applications, and larger software projects**.
 
 My goal is to gradually progress from small learning projects toward developing more complete and practical software applications.
 
