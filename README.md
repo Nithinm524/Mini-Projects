@@ -29,9 +29,12 @@
 
 Welcome to my **Python Mini Projects** repository, a collection of practical applications created as part of my continuous programming and software development learning journey.
 
-This repository represents my approach to learning programming through **hands-on project development**. Instead of limiting my learning to theoretical concepts and individual coding exercises, I use mini projects to understand how programming concepts can be combined to create complete, working applications. Each project focuses on a specific problem or use case and gives me an opportunity to design program logic, write code, handle user input, manage data, and test the application.
+This repository represents my approach to learning programming through **hands-on project development**. Instead of limiting my learning to theory and individual coding exercises, I use mini projects to see how programming concepts combine to create complete, working applications. Each project focuses on a specific problem or use case and lets me design program logic, write code, handle user input, manage data, and test the application.
 
 The projects in this repository cover different programming concepts and application areas, including **management systems, interactive games, utility applications, task management, contact management, quiz applications, and booking systems**. Some projects also involve **file handling, CSV data, SQLite databases, and CRUD operations**, providing practical experience in working with persistent data.
+
+<br>
+<br>
 
 ### 🧠 What I Learned Through These Projects
 ---
