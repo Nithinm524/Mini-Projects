@@ -541,7 +541,7 @@ Building these mini projects has helped me improve my understanding of programmi
 My goal is to gradually progress from small learning projects to larger and more complete applications while continuing to strengthen my programming and problem-solving abilities.
 
 ### 💡 Areas of Interest
-
+---
 💻 Software Development  
 🐍 Python  
 🤖 Artificial Intelligence  
