@@ -1,23 +1,5 @@
 # 🏨 Hotel Booking System
 
-### A Python-Based Hotel Reservation and Booking Management Application
-
-The **Hotel Booking System** is a Python-based mini project developed to demonstrate how a real-world hotel reservation process can be converted into a simple, interactive and organized software application. The system is designed to manage important hotel booking activities such as viewing available rooms, creating reservations, storing guest information, searching for bookings, updating reservation details and cancelling reservations.
-
-In a traditional hotel environment, reservation information such as guest details, room numbers, room types, check-in dates, check-out dates and booking status needs to be maintained accurately. Managing these records manually can become difficult when the number of guests and reservations increases. This project provides a computerized approach for maintaining hotel booking information and performing common reservation operations efficiently.
-
-The application follows a structured reservation-management approach where users can create and manage booking records through a menu-driven interface. The system demonstrates the fundamental **CRUD operations — Create, Read, Update and Delete**. A new reservation represents the Create operation, viewing and searching reservations represent Read operations, modifying an existing reservation represents Update, and cancelling a reservation represents Delete.
-
-The project can use different methods for storing booking information. A **CSV-based implementation** can store reservations in a structured CSV file, while an **SQLite-based implementation** can maintain reservation records inside a local relational database. These two approaches provide practical experience with both file-based and database-based data storage.
-
-The project combines several important Python programming concepts, including variables, data structures, functions, loops, conditional statements, user input, input validation, file handling, database operations and record management. By combining these concepts, the project demonstrates how basic programming knowledge can be applied to develop a practical real-world application.
-
-This project was developed as part of my **Python Mini Projects** collection to strengthen programming fundamentals through hands-on implementation and to understand how hotel reservation systems can be designed using Python.
-
-> ⚠️ **Educational Notice:** This project is intended for learning and demonstration purposes. It is not a production-ready hotel reservation platform.
-
----
-
 <div align="center">
 
 <img 
@@ -28,31 +10,54 @@ This project was developed as part of my **Python Mini Projects** collection to 
 
 </div>
 
+<br>
+<br>
+
+### A Python-Based Hotel Reservation and Booking Management Application
 ---
+The **Hotel Booking System** is a Python-based mini project developed to demonstrate how a real-world hotel reservation process can be converted into a simple, interactive, and organized software application. The system is designed to manage important hotel booking activities such as viewing available rooms, creating reservations, storing guest information, searching for bookings, updating reservation details, and cancelling reservations.
+
+In a traditional hotel environment, reservation information such as guest details, room numbers, room types, check-in dates, check-out dates, and booking status needs to be maintained accurately. Managing these records manually can become difficult when the number of guests and reservations increases. This project provides a computerized approach for maintaining hotel booking information and performing common reservation operations efficiently.
+
+The application follows a structured reservation-management approach where users can create and manage booking records through a menu-driven interface. The system demonstrates the fundamental **CRUD operations — Create, Read, Update, and Delete**. A new reservation represents the Create operation, viewing and searching reservations represent Read operations, modifying an existing reservation represents Update, and cancelling a reservation represents Delete.
+
+The project can use different methods for storing booking information. A **CSV-based implementation** can store reservations in a structured CSV file, while an **SQLite-based implementation** can maintain reservation records inside a local relational database. These two approaches provide practical experience with both file-based and database-based data storage.
+
+The project combines several important Python programming concepts, including variables, data structures, functions, loops, conditional statements, user input, input validation, file handling, database operations, and record management. By combining these concepts, the project demonstrates how basic programming knowledge can be applied to develop a practical real-world application.
+
+This project was developed as part of my **Python Mini Projects** collection to strengthen programming fundamentals through hands-on implementation and to understand how hotel reservation systems can be designed using Python.
+
+> ⚠️ **Educational Notice:** This project is intended for learning and demonstration purposes. It is not a production-ready hotel reservation platform.
+
+<br>
+<br>
+
 
 ## 📌 Project Overview
 
 The **Hotel Booking System** is a menu-driven application designed to simplify basic hotel reservation and booking management.
 
-When the application starts, the user is presented with a set of options that allow different hotel management operations to be performed. Users can view available rooms, create a new booking, view existing reservations, search for a particular booking, update reservation details, cancel a reservation and exit the application.
+When the application starts, the user is presented with a set of options that allow different hotel management operations to be performed. Users can view available rooms, create a new booking, view existing reservations, search for a particular booking, update reservation details, cancel a reservation, and exit the application.
 
-The booking process begins when a guest provides the required information. The system can collect details such as the guest name, phone number, room number, room type, check-in date and check-out date. After receiving the information, the system validates the entered data before creating a reservation.
+The booking process begins when a guest provides the required information. The system can collect details such as the guest name, phone number, room number, room type, check-in date, and check-out date. After receiving the information, the system validates the entered data before creating a reservation.
 
 Once a booking is successfully created, the reservation information can be stored permanently. In a CSV implementation, the information can be stored in a CSV file, while an SQLite implementation can store the information inside a local database.
 
-Existing reservations can be viewed whenever required. The search functionality allows users to locate a specific reservation using information such as a booking ID, guest name, phone number or room number.
+Existing reservations can be viewed whenever required. The search functionality allows users to locate a specific reservation using information such as a booking ID, guest name, phone number, or room number.
 
 If a guest wants to modify their reservation, the system can update the existing record instead of creating a duplicate booking. If a reservation is cancelled, the system can remove the reservation or update its status and make the associated room available again.
 
 The overall project demonstrates the complete lifecycle of a basic hotel reservation, starting from room selection and booking creation to reservation management and cancellation.
 
----
+<br>
+<br>
+
 
 ## 💡 Problem Statement
 
-Hotels need to maintain a large amount of information related to guests, rooms and reservations. Managing these records manually can become time-consuming and may result in errors, duplicate bookings or difficulty finding existing reservation information.
+Hotels need to maintain a large amount of information related to guests, rooms, and reservations. Managing these records manually can become time-consuming and may result in errors, duplicate bookings, or difficulty finding existing reservation information.
 
-A computerized hotel booking system can simplify this process by providing a structured method for maintaining guest information, room availability and booking records.
+A computerized hotel booking system can simplify this process by providing a structured method for maintaining guest information, room availability, and booking records.
 
 The objective of this project is to develop a Python-based Hotel Booking System that allows users to perform common hotel reservation operations through a simple and interactive interface.
 
@@ -73,7 +78,8 @@ The system should provide functionality for:
 
 The project demonstrates how Python can be used to solve a practical record-management problem through structured programming.
 
----
+<br>
+<br>
 
 ## 🎯 Objectives
 
@@ -100,7 +106,9 @@ The specific objectives are:
 - To improve logical thinking and problem-solving skills.
 - To understand how real-world reservation systems can be implemented using Python.
 
----
+<br>
+<br>
+
 
 ## ✨ Features
 
@@ -108,7 +116,7 @@ The specific objectives are:
 
 The system can display the rooms that are currently available for reservation.
 
-Room information can include the room number, room type, price and current availability status.
+Room information can include the room number, room type, price, and current availability status.
 
 Example:
 
@@ -123,7 +131,8 @@ Room No.    Room Type       Price/Night      Status
 
 This feature helps users identify which rooms can currently be reserved.
 
----
+<br>
+<br>
 
 ### 🛎️ Make a Booking
 
@@ -144,7 +153,9 @@ After collecting the required information, the system validates the data and cre
 
 This operation represents the **Create** part of CRUD.
 
----
+<br>
+<br>
+
 
 ### 🧑 Guest Information
 
@@ -162,7 +173,8 @@ Guest information may include:
 
 Maintaining these details makes it easier to identify and manage individual reservations.
 
----
+<br>
+<br>
 
 ### 🆔 Booking ID
 
@@ -178,7 +190,8 @@ The booking ID provides a simple way to identify an individual reservation.
 
 It can also be used when searching, updating or cancelling a booking.
 
----
+<br>
+<br>
 
 ### 👀 View Bookings
 
@@ -206,7 +219,8 @@ HB1002       Rahul       202     2026-10-11   2026-10-15
 
 This represents the **Read** operation in CRUD.
 
----
+<br>
+<br>
 
 ### 🔍 Search Booking
 
@@ -223,7 +237,8 @@ This is especially useful when the number of stored reservations becomes large.
 
 Instead of checking every reservation manually, the user can provide a search value and retrieve the required record.
 
----
+<br>
+<br>
 
 ### ✏️ Update Booking
 
