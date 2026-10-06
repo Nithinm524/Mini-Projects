@@ -39,31 +39,35 @@ The projects in this repository cover different programming concepts and applica
 ### 🧠 What I Learned Through These Projects
 ---
 - 🐍 **Python Programming**  
-  Applying variables, data types, operators, conditional statements, loops, functions, strings, lists and other core Python concepts.
+  Applying variables, data types, operators, conditional statements, loops, functions, strings, lists, and other core Python concepts.
 
 - 📄 **Data & File Handling**  
-  Learning how applications can create, read, update and manage information stored in files and structured formats such as CSV.
+  Learning how applications can create, read, update, and manage information stored in files and structured formats such as CSV.
 
 - 🗄️ **Database Management**  
   Using SQLite to understand how applications store structured information and retrieve data when required.
 
 - 🔄 **CRUD Operations**  
-  Implementing Create, Read, Update and Delete operations in applications that manage records and information.
+  Implementing Create, Read, Update, and Delete operations in applications that manage records and information.
 
 - 🧠 **Problem Solving**  
-  Breaking problems into smaller components, designing logical solutions and converting those solutions into working programs.
+  Breaking problems into smaller components, designing logical solutions, and converting those solutions into working programs.
 
 - ⌨️ **User Interaction**  
-  Handling user input, validating information and displaying meaningful output through interactive applications.
+  Handling user input, validating information, and displaying meaningful output through interactive applications.
 
 - 🐛 **Debugging & Improvement**  
-  Finding errors, testing different situations and improving programs through continuous practice.
+  Finding errors, testing different situations, and improving programs through continuous practice.
+  <br>
+  <br>
 
 ### 🎯 Purpose of This Repository
 ---
 The main purpose of this repository is to maintain a structured record of my practical programming experience. Each project represents a step in my learning process and allows me to apply concepts that I have studied in a practical environment.
 
 These projects also help me understand the development process, from identifying a problem and planning a solution to implementing the program, testing its functionality and organizing the source code.
+<br>
+<br>
 
 ### 🚀 Future Direction
 ---
