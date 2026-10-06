@@ -233,8 +233,6 @@ Bank-System/
 │
 ├── bank.py
 ├── bank_sqlite.py
-├── bank.csv
-├── bank.db
 └── README.md
 ```
 
@@ -247,14 +245,6 @@ The main Python implementation of the banking system. It contains the program lo
 **`bank_sqlite.py`**
 
 The database-based implementation that uses SQLite for storing and retrieving banking records.
-
-**`bank.csv`**
-
-The CSV data file used for file-based storage of account information.
-
-**` bank.db`**
-
-The SQLite database file used to store structured banking records.
 
 **`README.md`**
 
