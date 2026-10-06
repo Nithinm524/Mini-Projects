@@ -1,30 +1,26 @@
 # 🧠 Quiz Application
 
+<div align="center">
+
+<img src="quiz.png" alt="Quiz Python Mini Project" width="100%">
+
+</div>
+
 ### A Python-Based Interactive Quiz and Leaderboard System
 
-The **Quiz Application** is a Python-based mini project developed to provide an interactive question-and-answer experience through a simple command-line interface. The application presents a set of multiple-choice questions to the user, accepts answers, evaluates them immediately and calculates the final score after all questions have been attempted.
+The **Quiz Application** is a Python-based mini project developed to provide an interactive question-and-answer experience through a simple command-line interface. The application presents a set of multiple-choice questions to the user, accepts answers, evaluates them immediately, and calculates the final score after all questions have been attempted.
 
-The project is designed around a simple but practical quiz workflow. When the application starts, the user can choose to take the quiz, view the leaderboard or exit the application. During the quiz, the user is asked to enter their name and answer a series of multiple-choice questions. Each question contains four options, and the user selects an answer by entering the corresponding option number.
+The project is designed around a simple but practical quiz workflow. When the application starts, the user can choose to take the quiz, view the leaderboard, or exit the application. During the quiz, the user is asked to enter their name and answer a series of multiple-choice questions. Each question contains four options, and the user selects an answer by entering the corresponding option number.
 
-After every question, the application checks whether the selected answer is correct. If the answer is correct, the score is increased and a confirmation message is displayed. If the answer is incorrect, the application displays the correct answer. Once all questions have been completed, the final score is calculated and displayed to the player.
+After every question, the application checks whether the selected answer is correct. If the answer is correct, the score is increased, and a confirmation message is displayed. If the answer is incorrect, the application displays the correct answer. Once all questions have been completed, the final score is calculated and displayed to the player.
 
 The project contains **two implementations with different storage mechanisms**. The **CSV version** stores quiz scores in a CSV file, while the **SQLite version** stores scores in a SQLite database. Both versions provide the same core quiz functionality while demonstrating two different approaches to persistent data storage.
 
 The application also includes a **leaderboard system** that retrieves previously recorded quiz attempts and displays players according to their scores. This makes the project more interactive because users can compare their performance with previous attempts.
 
-This project was developed as part of my **Python Mini Projects** collection to strengthen programming fundamentals through practical implementation and to understand how user interaction, conditional logic, loops, collections, file handling and databases can be combined to create a complete quiz application.
+This project was developed as part of my **Python Mini Projects** collection to strengthen programming fundamentals through practical implementation and to understand how user interaction, conditional logic, loops, collections, file handling, and databases can be combined to create a complete quiz application.
 
----
 
-<div align="center">
-
-<img 
-  src="quiz.png"
-  alt="Quiz Python Mini Project"
-  width="100%"
->
-
-</div>
 
 ---
 
@@ -606,9 +602,6 @@ Quiz/
 │
 ├── quiz_csv.py
 ├── quiz_sqlite.py
-├── quiz_scores.csv
-├── quiz.db
-├── quiz.png
 └── README.md
 ```
 
@@ -634,44 +627,6 @@ It also retrieves previously stored scores from the database and displays them t
 
 ---
 
-**`quiz_scores.csv`**
-
-This file is created and maintained by the CSV version of the application.
-
-It stores completed quiz attempts using the following structure:
-
-```text
-Player,Score,Total
-```
-
-Each row represents one completed quiz attempt.
-
----
-
-**`quiz.db`**
-
-This is the SQLite database used by the SQLite version.
-
-The database contains a `scores` table with:
-
-```text
-id
-player
-score
-total
-```
-
-The `id` field uniquely identifies each attempt, while the remaining fields store the player's name and score information.
-
----
-
-**`quiz.png`**
-
-This image is the visual banner used in the README file to represent the Quiz Python Mini Project.
-
-It provides a visual introduction to the project and improves the overall presentation of the GitHub documentation.
-
----
 
 **`README.md`**
 
