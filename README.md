@@ -129,7 +129,7 @@ Random Numbers • Loops • Conditions • User Input
 
 ### 📱 Phone Contact Book
 
-An application for storing, searching and managing phone contact information.
+An application for storing, searching, and managing phone contact information.
 
 **Tech Stack**
 
@@ -274,7 +274,7 @@ This repository will continue to grow as I develop more projects and explore new
 
 ### 🐍 Python Programming
 
-I practice variables, data types, functions, loops, conditions, strings, lists and core Python programming concepts.
+I practice variables, data types, functions, loops, conditions, strings, lists, and core Python programming concepts.
 
 </td>
 </tr>
@@ -292,7 +292,7 @@ I practice variables, data types, functions, loops, conditions, strings, lists a
 
 ### 📄 File & Data Handling
 
-I work with files and structured data to store, read, update and manage information.
+I work with files and structured data to store, read, update, and manage information.
 
 </td>
 </tr>
@@ -310,7 +310,7 @@ I work with files and structured data to store, read, update and manage informat
 
 ### 🗄️ Database Management
 
-I use SQLite to understand tables, records, queries and application data storage.
+I use SQLite to understand tables, records, queries, and application data storage.
 
 </td>
 </tr>
@@ -328,7 +328,7 @@ I use SQLite to understand tables, records, queries and application data storage
 
 ### 🔄 CRUD Operations
 
-I practice Create, Read, Update and Delete operations through management applications.
+I practice Create, Read, Update, and Delete operations through management applications.
 
 </td>
 </tr>
@@ -364,7 +364,7 @@ I break problems into smaller steps and develop logical programming solutions.
 
 ### ⌨️ User Interaction
 
-I practice user input, validation and meaningful output through interactive applications.
+I practice user input, validation, and meaningful output through interactive applications.
 
 </td>
 </tr>
@@ -459,7 +459,7 @@ Improve logical thinking and develop solutions to programming problems.
 
 ### 05 · 🗄️ Explore Databases & Tools
 
-Learn SQLite, Git, GitHub and other development tools.
+Learn SQLite, Git, GitHub, and other development tools.
 
 </td>
 </tr>
@@ -532,13 +532,16 @@ Through these projects, I aim to:
 
 I am a **Computer Science & Engineering student** interested in software development and emerging technologies.
 
-I enjoy learning programming by building practical projects and applying concepts through hands-on development. Working on projects helps me understand how applications are designed, how data is managed and how different programming concepts work together to create useful software.
+I enjoy learning programming by building practical projects and applying concepts through hands-on development. Working on projects helps me understand how applications are designed, how data is managed, and how different programming concepts work together to create useful software.
 
 My main areas of interest include **Software Development, Python, Artificial Intelligence, Problem Solving, Data and Technology**. I enjoy exploring new programming concepts and applying them through projects that allow me to learn beyond classroom theory.
 
-Building these mini projects has helped me improve my understanding of programming fundamentals, logical thinking, data handling and application development. I am continuously working on improving my technical skills by learning new technologies, solving programming problems, developing projects and exploring different areas of software development.
+Building these mini projects has helped me improve my understanding of programming fundamentals, logical thinking, data handling, and application development. I am continuously working on improving my technical skills by learning new technologies, solving programming problems, developing projects, and exploring different areas of software development.
 
 My goal is to gradually progress from small learning projects to larger and more complete applications while continuing to strengthen my programming and problem-solving abilities.
+
+<br>
+<br>
 
 ### 💡 Areas of Interest
 ---
@@ -553,7 +556,7 @@ My goal is to gradually progress from small learning projects to larger and more
 
 ## 📌 Repository Highlights
 
-This repository currently contains **7 Python mini projects** covering different areas of practical programming and application development.
+This repository currently contains **7 Python mini-projects ** covering different areas of practical programming and application development.
 
 **Primary Language:** Python  
 **Database:** SQLite  
@@ -573,7 +576,7 @@ The projects range from simple programming exercises and interactive application
 
 If you find these projects useful or interesting, consider giving this repository a ⭐.
 
-**Your support helps me continue learning, building and improving.**
+**Your support helps me continue learning, building, and improving.**
 
 ⭐ **Star this repository if you find it useful!** ⭐
 
