@@ -661,9 +661,6 @@ Hotel-Booking/
 │
 ├── hotel_booking_csv.py
 ├── hotel_booking_sqlite.py
-├── hotel-booking.png
-├── hotel_bookings.csv
-├── hotel.db
 └── README.md
 ```
 
@@ -689,39 +686,7 @@ The SQLite implementation provides practical experience with structured database
 
 ---
 
-**`hotel-booking.png`**
 
-This image is the visual banner used in the README file to represent the Hotel Booking System Python Mini Project.
-
-It provides a visual introduction to the project and improves the overall presentation of the GitHub documentation.
-
----
-
-**`hotel_bookings.csv`**
-
-This file stores hotel reservation records for the CSV implementation.
-
-It can contain information such as:
-
-```text
-Booking ID
-Guest Name
-Contact
-Room Number
-Check-in Date
-Check-out Date
-Status
-```
-
----
-
-**`hotel.db`**
-
-This is the SQLite database used by the database implementation.
-
-It stores hotel booking records in structured database tables.
-
----
 
 **`README.md`**
 
@@ -1018,7 +983,7 @@ The SQLite implementation provided practical experience with relational database
 
 Input validation also demonstrated the importance of checking user-provided information before storing or processing it.
 
-Overall, this project strengthened my knowledge of **Python programming, functions, loops, conditional statements, data structures, CRUD operations, file handling, CSV processing, SQLite databases, SQL queries, date processing, validation and menu-driven application development**.
+Overall, this project strengthened my knowledge of **Python programming, functions, loops, conditional statements, data structures, CRUD operations, file handling, CSV processing, SQLite databases, SQL queries, date processing, validation, and menu-driven application development**.
 
 ---
 
@@ -1057,7 +1022,7 @@ These improvements could transform the basic educational project into a more com
 
 This project was developed as part of my **Python Mini Projects** collection to strengthen programming fundamentals through practical implementation.
 
-The Hotel Booking System demonstrates how a real-world reservation process can be represented using software. It combines guest management, room availability, reservation creation, booking searches, updates, cancellations and data persistence into a single application.
+The Hotel Booking System demonstrates how a real-world reservation process can be represented using software. It combines guest management, room availability, reservation creation, booking searches, updates, cancellations, and data persistence into a single application.
 
 The project also demonstrates the difference between **file-based storage and database-based storage** through CSV and SQLite implementations.
 
@@ -1065,18 +1030,6 @@ The application is primarily intended for **learning and educational purposes** 
 
 ---
 
-## ⭐ Support
 
-If you find this project useful or interesting, consider giving the repository a ⭐.
-
-Your support motivates me to continue learning, building and improving more Python projects.
-
----
-
-<div align="center">
-
-### 🏨 Book • Manage • Stay
-
-*Made with ❤️ using Python*
 
 </div>
