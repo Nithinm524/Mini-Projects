@@ -6,6 +6,9 @@
 
 </div>
 
+<br>
+<br>
+
 ### A Python-Based Poll Creation and Voting Management Application
 
 The **Polling / Voting System** is a Python-based mini project developed to demonstrate how a simple digital polling application can be designed using Python, file handling, CSV storage and SQLite database management. The system provides a structured way to create polls, add multiple options, view available polls, cast votes, prevent duplicate voting, display voting results and delete existing polls through a simple menu-driven interface.
