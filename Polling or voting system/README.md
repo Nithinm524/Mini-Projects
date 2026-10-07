@@ -10,7 +10,7 @@
 <br>
 
 ### A Python-Based Poll Creation and Voting Management Application
-
+---
 The **Polling / Voting System** is a Python-based mini project developed to demonstrate how a simple digital polling application can be designed using Python, file handling, CSV storage and SQLite database management. The system provides a structured way to create polls, add multiple options, view available polls, cast votes, prevent duplicate voting, display voting results and delete existing polls through a simple menu-driven interface.
 
 The project contains two implementations of the same polling system. The first implementation uses **CSV files** to store poll questions, poll options, vote counts and voter information. The second implementation uses an **SQLite database** to store the same information using relational database tables and SQL operations.
@@ -28,13 +28,14 @@ This project was developed as part of my **Python Mini Projects** collection to 
 > ⚠️ **Educational Notice:** This project is intended for learning and demonstration purposes. It is not designed for official elections or high-security voting systems.
 
 
----
+<br>
+<br>
 
 ## 📌 Project Overview
 
 The **Polling / Voting System** is a command-line application that allows users to create and manage polls.
 
-When the program starts, it displays a menu containing options for creating polls, viewing polls, voting, viewing results, deleting polls and exiting the application.
+When the program starts, it displays a menu containing options for creating polls, viewing polls, voting, viewing results, deleting polls, and exiting the application.
 
 The **Create Poll** option allows users to enter a poll question and define multiple options. The system requires at least two options before a poll can be created.
 
@@ -42,7 +43,7 @@ After a poll is created, the system assigns a unique poll ID and stores the ques
 
 The **View All Polls** option displays all available polls along with their IDs. Users can use these IDs to select a poll.
 
-The **Vote** option allows users to select a poll, enter their name and choose an option. The system checks whether the voter has already participated in that poll before accepting the vote.
+The **Vote** option allows users to select a poll, enter their name, and choose an option. The system checks whether the voter has already participated in that poll before accepting the vote.
 
 The **View Results** option calculates the total number of votes and the percentage received by each option.
 
@@ -50,13 +51,14 @@ The **Delete Poll** option allows an existing poll to be removed along with its 
 
 The program continues running until the user chooses the Exit option.
 
----
+<br>
+<br>
 
 ## 💡 Problem Statement
 
-Polling is a common method of collecting opinions or choices from a group of people. Managing polls manually can become difficult when there are multiple questions, options and participants.
+Polling is a common method of collecting opinions or choices from a group of people. Managing polls manually can become difficult when there are multiple questions, options, and participants.
 
-A computerized polling system can simplify this process by providing a structured method for creating polls, collecting votes, storing voter information and calculating results.
+A computerized polling system can simplify this process by providing a structured method for creating polls, collecting votes, storing voter information, and calculating results.
 
 The objective of this project is to develop a Python-based Polling / Voting System that allows users to:
 
@@ -73,7 +75,8 @@ The objective of this project is to develop a Python-based Polling / Voting Syst
 - Store information using CSV files.
 - Store information using SQLite.
 
----
+<br>
+<br>
 
 ## 🎯 Objectives
 
@@ -98,7 +101,8 @@ The main objectives of this project are:
 - To implement input validation.
 - To strengthen programming and problem-solving skills.
 
----
+<br>
+<br>
 
 ## ✨ Features
 
@@ -123,7 +127,8 @@ Poll created successfully! Poll ID: 1
 
 The system validates the question and requires at least two non-empty options.
 
----
+<br>
+<br>
 
 ### 📋 View All Polls
 
@@ -140,7 +145,8 @@ ID    Question
 
 The poll ID can be used for voting or viewing results.
 
----
+<br>
+<br>
 
 ### 🗳️ Vote on a Poll
 
@@ -162,7 +168,8 @@ Enter Option ID to Vote: 1
 Vote cast successfully!
 ```
 
----
+<br>
+<br>
 
 ### 🚫 Duplicate Vote Prevention
 
@@ -176,11 +183,12 @@ The system does not record another vote for the same voter on that poll.
 
 > **Note:** Voters are identified using their entered name, so this is only a basic educational duplicate-prevention mechanism.
 
----
+<br>
+<br>
 
 ### 📊 View Results
 
-The system displays the number and percentage of votes received by every option.
+The system displays the number and percentage of votes each option received.
 
 ```text
 ----------- RESULTS -----------
@@ -200,7 +208,8 @@ The percentage is calculated using:
 Percentage = (Option Votes / Total Votes) × 100
 ```
 
----
+<br>
+<br>
 
 ### 🗑️ Delete Poll
 
@@ -214,7 +223,8 @@ Poll deleted successfully!
 
 The associated option and voter records are also removed.
 
----
+<br>
+<br>
 
 ### 💾 CSV Storage
 
