@@ -238,7 +238,8 @@ voters.csv
 
 These files store poll information, options and voter records separately.
 
----
+<br>
+<br>
 
 ### 🗄️ SQLite Storage
 
@@ -258,7 +259,8 @@ voters
 
 tables.
 
----
+<br>
+<br>
 
 ### 🔄 Menu-Driven Interface
 
@@ -277,7 +279,8 @@ The application provides a simple menu:
 Enter your choice:
 ```
 
----
+<br>
+<br>
 
 ### ✅ Input Validation
 
@@ -293,7 +296,8 @@ The system validates:
 
 This helps prevent invalid information from being stored.
 
----
+<br>
+<br>
 
 ## 🛠️ Technologies Used
 
@@ -315,7 +319,8 @@ The Python `sqlite3` module is used for the database-based implementation.
 
 The project uses a terminal-based interface for user interaction.
 
----
+<br>
+<br>
 
 ## 🧠 Programming Concepts Used
 
@@ -344,7 +349,8 @@ The project provides practical experience with:
 - Error handling
 - Problem solving
 
----
+<br>
+<br>
 
 ## ⚙️ How the System Works
 
@@ -370,7 +376,7 @@ The application displays all available polls and their IDs.
 
 ### Step 3: Vote
 
-The user selects a poll, enters their name and chooses an option.
+The user selects a poll, enters their name, and chooses an option.
 
 The system checks whether the voter has already voted on that poll.
 
@@ -388,7 +394,8 @@ The selected poll and its related records are removed.
 
 The application terminates when the user selects Exit.
 
----
+<br>
+<br>
 
 ## 🔄 Polling System Flow
 
@@ -425,7 +432,8 @@ The application terminates when the user selects Exit.
                          Exit
 ```
 
----
+<br>
+<br>
 
 ## 📂 Project Structure
 
@@ -434,19 +442,11 @@ Polling-Voting-System/
 │
 ├── voting_csv.py
 ├── voting_sqlite.py
-│
-├── polls.csv
-├── options.csv
-├── voters.csv
-│
-├── voting.db
-│
-├── polling-voting-system.png
-│
 └── README.md
 ```
 
----
+<br>
+<br>
 
 ## 📄 File Description
 
@@ -477,84 +477,13 @@ It uses `voting.db` as the database and stores information in the `polls`, `opti
 
 ---
 
-### `polls.csv`
-
-Stores poll questions.
-
-```text
-ID, Question
-```
-
-Example:
-
-```text
-1. Which programming language do you prefer?
-2. Which database do you use most?
-```
-
----
-
-### `options.csv`
-
-Stores the options associated with each poll.
-
-```text
-ID, PollID, OptionText, Votes
-```
-
-Example:
-
-```text
-1,1, Python,10
-2,1, Java,5
-3,1,C++,3
-```
-
----
-
-### `voters.csv`
-
-Stores voter participation.
-
-```text
-PollID, VoterName
-```
-
-Example:
-
-```text
-1, Nithin
-1, Rahul
-1, Priya
-```
-
----
-
-### `voting.db`
-
-SQLite database used by the database implementation.
-
-It stores:
-
-```text
-polls
-options
-voters
-```
-
----
-
-### `polling-voting-system.png`
-
-The main visual image used in the README to represent the Polling / Voting System Python Mini Project.
-
----
 
 ### `README.md`
 
 The documentation file containing complete information about the project, including its objectives, features, technologies, working process, project structure, execution instructions, learning outcomes and future enhancements.
 
----
+<br>
+<br>
 
 ## ▶️ How to Run
 
@@ -584,7 +513,8 @@ python voting_sqlite.py
 
 No separate SQLite installation is required because Python provides the `sqlite3` module.
 
----
+<br>
+<br>
 
 ## 💻 Example Usage
 
@@ -681,7 +611,8 @@ Enter Poll ID to Delete: 1
 Poll deleted successfully!
 ```
 
----
+<br>
+<br>
 
 ## 💾 Data Storage
 
@@ -717,7 +648,8 @@ polls
 
 This approach demonstrates how related information can be maintained using a database.
 
----
+<br>
+<br>
 
 ## 📊 Result Calculation
 
@@ -739,7 +671,8 @@ Percentage = (12 / 20) × 100
 
 If there are no votes, the percentage is displayed as `0%`.
 
----
+<br>
+<br>
 
 ## 🔐 Voting Rules
 
@@ -756,7 +689,8 @@ If there are no votes, the percentage is displayed as `0%`.
 
 The application is an educational project and should not be used as a secure election system.
 
----
+<br>
+<br>
 
 ## 🗄️ Database Design
 
@@ -796,7 +730,8 @@ voter_name
 
 Stores voter participation information.
 
----
+<br>
+<br>
 
 ## 🧪 Input Validation
 
@@ -832,7 +767,8 @@ Invalid Choice! Please try again.
 
 These validations help maintain valid and consistent data.
 
----
+<br>
+<br>
 
 ## 📚 Learning Outcomes
 
@@ -871,7 +807,8 @@ Data Management
 Problem Solving
 ```
 
----
+<br>
+<br>
 
 ## 🔮 Future Enhancements
 
@@ -898,7 +835,8 @@ Possible future improvements include:
 - 📋 Voting audit logs
 - 👨‍💼 Administrator dashboard
 
----
+<br>
+<br>
 
 ## 🎓 Project Purpose
 
